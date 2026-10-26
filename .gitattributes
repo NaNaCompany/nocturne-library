@@ -1,0 +1,3 @@
+# Original novel bytes are validated using their pinned SHA-256 hashes.
+dist/data/** -whitespace
+docs/data/** -whitespace

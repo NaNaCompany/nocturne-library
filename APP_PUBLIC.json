@@ -1,0 +1,59 @@
+{
+  "slug": "nocturne-library",
+  "url": "https://nanalab.kr/nocturne-library/",
+  "languages": [
+    "ko",
+    "en",
+    "es",
+    "zh",
+    "ja",
+    "de"
+  ],
+  "locales": {
+    "ko": {
+      "name": "NOCTURNE · 밤의 서재",
+      "description": "원어 소설 12권을 검은 배경·흰 글자로 읽고 글꼴·크기·목차·읽던 위치·책갈피를 활용하세요.",
+      "image_alt": "NOCTURNE · 밤의 서재"
+    },
+    "en": {
+      "name": "NOCTURNE · The night library",
+      "description": "Read 12 novels in their original language on a black background with white text, adjustable fonts, contents, reading position and bookmarks.",
+      "image_alt": "NOCTURNE · The night library"
+    },
+    "es": {
+      "name": "NOCTURNE · La biblioteca nocturna",
+      "description": "Lee 12 novelas en su idioma original con fondo negro, texto blanco, fuentes ajustables, índice, posición de lectura y marcadores.",
+      "image_alt": "NOCTURNE · La biblioteca nocturna"
+    },
+    "zh": {
+      "name": "NOCTURNE · 夜间书房",
+      "description": "在黑底白字界面阅读 12 部原文小说，使用字体与字号调整、目录、阅读位置和书签。",
+      "image_alt": "NOCTURNE · 夜间书房"
+    },
+    "ja": {
+      "name": "NOCTURNE · 夜の書斎",
+      "description": "原語の小説12冊を黒い背景と白い文字で読み、書体・文字サイズ・目次・読書位置・しおりを利用できます。",
+      "image_alt": "NOCTURNE · 夜の書斎"
+    },
+    "de": {
+      "name": "NOCTURNE · Die Nachtbibliothek",
+      "description": "Lesen Sie zwölf Romane im Original mit schwarzem Hintergrund, weißer Schrift, anpassbaren Schriften, Inhaltsverzeichnis, Leseposition und Lesezeichen.",
+      "image_alt": "NOCTURNE · Die Nachtbibliothek"
+    },
+    "fr": {
+      "name": "NOCTURNE · La bibliothèque nocturne",
+      "description": "Lisez 12 romans dans leur langue d'origine sur fond noir et texte blanc, avec polices réglables, sommaire, position de lecture et signets.",
+      "image_alt": "NOCTURNE · La bibliothèque nocturne"
+    },
+    "pt": {
+      "name": "NOCTURNE · A biblioteca noturna",
+      "description": "Leia 12 romances no idioma original com fundo preto e texto branco, fontes ajustáveis, sumário, posição de leitura e marcadores.",
+      "image_alt": "NOCTURNE · A biblioteca noturna"
+    },
+    "ru": {
+      "name": "NOCTURNE · Ночная библиотека",
+      "description": "Читайте 12 романов на языке оригинала с белым текстом на чёрном фоне, настройками шрифта, оглавлением, сохранением позиции и закладками.",
+      "image_alt": "NOCTURNE · Ночная библиотека"
+    }
+  }
+}

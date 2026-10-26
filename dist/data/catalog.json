@@ -1,0 +1,778 @@
+{
+  "schemaVersion": 1,
+  "books": [
+    {
+      "id": "great-gatsby",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "language": "en",
+      "publishedYear": 1925,
+      "authorDeathYear": 1940,
+      "genre": "literary",
+      "description": "재즈 시대의 부와 욕망을 따라 읽는 미국 고전.",
+      "sourceUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/the-great-gatsby",
+      "sourceRepository": "https://github.com/standardebooks/f-scott-fitzgerald_the-great-gatsby",
+      "sourceCommit": "fe47c8c04f5175d45f9410f4e3ca64c257ae0acc",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "wordCount": 48455,
+      "readingMinutes": 221,
+      "chapterCount": 11,
+      "mainChapterCount": 9,
+      "file": "books/great-gatsby.json",
+      "txt": "txt/great-gatsby.txt",
+      "sourceCredits": [
+        {
+          "name": "The League of Moveable Type",
+          "roles": [
+            "tyd"
+          ]
+        },
+        {
+          "name": "Francis Cugat",
+          "roles": [
+            "art"
+          ]
+        },
+        {
+          "name": "Al Haines",
+          "roles": [
+            "trc"
+          ]
+        },
+        {
+          "name": "Cindy Beyer",
+          "roles": [
+            "trc"
+          ]
+        },
+        {
+          "name": "Distributed Proofreaders Canada",
+          "roles": [
+            "trc"
+          ]
+        },
+        {
+          "name": "Alex Cabal",
+          "roles": [
+            "bkp",
+            "blw",
+            "cov",
+            "mrk",
+            "pfr",
+            "tyg"
+          ]
+        }
+      ],
+      "rightsNote": "원작 저자 1940년 사망; 한국의 보수적 사후 70년 계산도 2010년 말 종료. Standard Ebooks 판본 기여분 CC0 1.0; 원문은 해당 판본이 미국 퍼블릭 도메인으로 명시. 영어 원작이며 원작 내 다른 언어 구절 보존."
+    },
+    {
+      "id": "pride-and-prejudice",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "language": "en",
+      "publishedYear": 1813,
+      "authorDeathYear": 1817,
+      "genre": "romance",
+      "description": "첫인상과 사회적 시선을 함께 돌아보게 하는 고전.",
+      "sourceUrl": "https://standardebooks.org/ebooks/jane-austen/pride-and-prejudice",
+      "sourceRepository": "https://github.com/standardebooks/jane-austen_pride-and-prejudice",
+      "sourceCommit": "ed94a32be3e875c0814568050c7544e03aad3ef5",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "wordCount": 121971,
+      "readingMinutes": 555,
+      "chapterCount": 61,
+      "mainChapterCount": 61,
+      "file": "books/pride-and-prejudice.json",
+      "txt": "txt/pride-and-prejudice.txt",
+      "sourceCredits": [
+        {
+          "name": "The League of Moveable Type",
+          "roles": [
+            "tyd"
+          ]
+        },
+        {
+          "name": "R. W. Chapman",
+          "roles": [
+            "edt"
+          ]
+        },
+        {
+          "name": "Edmund Blair Leighton",
+          "roles": [
+            "art"
+          ]
+        },
+        {
+          "name": "Greg Weeks",
+          "roles": [
+            "trc"
+          ]
+        },
+        {
+          "name": "Jon Hurst",
+          "roles": [
+            "trc"
+          ]
+        },
+        {
+          "name": "Mary Meehan",
+          "roles": [
+            "trc"
+          ]
+        },
+        {
+          "name": "Distributed Proofreaders",
+          "roles": [
+            "trc"
+          ]
+        },
+        {
+          "name": "Alex Cabal",
+          "roles": [
+            "bkp",
+            "blw",
+            "cov",
+            "edt",
+            "mrk",
+            "tyg"
+          ]
+        },
+        {
+          "name": "Alina Pyzowski",
+          "roles": [
+            "pfr"
+          ]
+        }
+      ],
+      "rightsNote": "원작 저자 1817년 사망; 한국의 보수적 사후 70년 계산도 1887년 말 종료. Standard Ebooks 판본 기여분 CC0 1.0; 원문은 해당 판본이 미국 퍼블릭 도메인으로 명시. 영어 원작이며 원작 내 다른 언어 구절 보존."
+    },
+    {
+      "id": "frankenstein",
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "language": "en",
+      "publishedYear": 1818,
+      "authorDeathYear": 1851,
+      "genre": "gothic",
+      "description": "창조와 책임의 경계를 생각하며 읽는 고딕 고전.",
+      "sourceUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein",
+      "sourceRepository": "https://github.com/standardebooks/mary-shelley_frankenstein",
+      "sourceCommit": "3909a2b9d956377e797e235562cd237d3667fa9b",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "wordCount": 77890,
+      "readingMinutes": 355,
+      "chapterCount": 37,
+      "mainChapterCount": 24,
+      "file": "books/frankenstein.json",
+      "txt": "txt/frankenstein.txt",
+      "sourceCredits": [
+        {
+          "name": "The League of Moveable Type",
+          "roles": [
+            "tyd"
+          ]
+        },
+        {
+          "name": "Percy Bysshe Shelley",
+          "roles": [
+            "wpr"
+          ]
+        },
+        {
+          "name": "Giuseppe Arcimboldo",
+          "roles": [
+            "art"
+          ]
+        },
+        {
+          "name": "Greg Weeks",
+          "roles": [
+            "trc"
+          ]
+        },
+        {
+          "name": "Mary Meehan",
+          "roles": [
+            "trc"
+          ]
+        },
+        {
+          "name": "Distributed Proofreaders",
+          "roles": [
+            "trc"
+          ]
+        },
+        {
+          "name": "Alex Cabal",
+          "roles": [
+            "bkp",
+            "blw",
+            "cov",
+            "mrk",
+            "pfr",
+            "tyg"
+          ]
+        }
+      ],
+      "rightsNote": "원작 저자 1851년 사망; 한국의 보수적 사후 70년 계산도 1921년 말 종료. Standard Ebooks 판본 기여분 CC0 1.0; 원문은 해당 판본이 미국 퍼블릭 도메인으로 명시. 영어 원작이며 원작 내 다른 언어 구절 보존."
+    },
+    {
+      "id": "alice-in-wonderland",
+      "title": "Alice’s Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "language": "en",
+      "publishedYear": 1865,
+      "authorDeathYear": 1898,
+      "genre": "fantasy",
+      "description": "말과 논리의 경계를 즐길 수 있는 환상 문학.",
+      "sourceUrl": "https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel",
+      "sourceRepository": "https://github.com/standardebooks/lewis-carroll_alices-adventures-in-wonderland",
+      "sourceCommit": "9ecdf2ffa23098e7cb3c72157d7c3031b6f59903",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "wordCount": 26743,
+      "readingMinutes": 122,
+      "chapterCount": 13,
+      "mainChapterCount": 12,
+      "file": "books/alice-in-wonderland.json",
+      "txt": "txt/alice-in-wonderland.txt",
+      "sourceCredits": [
+        {
+          "name": "The League of Moveable Type",
+          "roles": [
+            "tyd"
+          ]
+        },
+        {
+          "name": "Ivan Ivanovich Shishkin",
+          "roles": [
+            "art"
+          ]
+        },
+        {
+          "name": "John Tenniel",
+          "roles": [
+            "ill"
+          ]
+        },
+        {
+          "name": "Arthur DiBianca",
+          "roles": [
+            "trc"
+          ]
+        },
+        {
+          "name": "David Widger",
+          "roles": [
+            "trc"
+          ]
+        },
+        {
+          "name": "Alex Cabal",
+          "roles": [
+            "bkp",
+            "blw",
+            "cov",
+            "mrk",
+            "pfr",
+            "tyg",
+            "wat"
+          ]
+        }
+      ],
+      "rightsNote": "원작 저자 1898년 사망; 한국의 보수적 사후 70년 계산도 1968년 말 종료. Standard Ebooks 판본 기여분 CC0 1.0; 원문은 해당 판본이 미국 퍼블릭 도메인으로 명시. 영어 원작이며 원작 내 다른 언어 구절 보존."
+    },
+    {
+      "id": "picture-of-dorian-gray",
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "language": "en",
+      "publishedYear": 1890,
+      "authorDeathYear": 1900,
+      "genre": "gothic",
+      "description": "아름다움과 양심을 둘러싼 선택을 따라 읽는 고전.",
+      "sourceUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-picture-of-dorian-gray",
+      "sourceRepository": "https://github.com/standardebooks/oscar-wilde_the-picture-of-dorian-gray",
+      "sourceCommit": "c6b6877688d7652e74c3db4e21322adcb27cadcd",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "wordCount": 79061,
+      "readingMinutes": 360,
+      "chapterCount": 21,
+      "mainChapterCount": 20,
+      "file": "books/picture-of-dorian-gray.json",
+      "txt": "txt/picture-of-dorian-gray.txt",
+      "sourceCredits": [
+        {
+          "name": "The League of Moveable Type",
+          "roles": [
+            "tyd"
+          ]
+        },
+        {
+          "name": "John Collier",
+          "roles": [
+            "art"
+          ]
+        },
+        {
+          "name": "Judith Boss",
+          "roles": [
+            "trc"
+          ]
+        },
+        {
+          "name": "Al Haines",
+          "roles": [
+            "trc"
+          ]
+        },
+        {
+          "name": "Alex Cabal",
+          "roles": [
+            "bkp",
+            "blw",
+            "cov",
+            "mrk",
+            "pfr",
+            "tyg"
+          ]
+        }
+      ],
+      "rightsNote": "원작 저자 1900년 사망; 한국의 보수적 사후 70년 계산도 1970년 말 종료. Standard Ebooks 판본 기여분 CC0 1.0; 원문은 해당 판본이 미국 퍼블릭 도메인으로 명시. 영어 원작이며 원작 내 다른 언어 구절 보존."
+    },
+    {
+      "id": "jane-eyre",
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "language": "en",
+      "publishedYear": 1847,
+      "authorDeathYear": 1855,
+      "genre": "gothic",
+      "description": "독립과 사랑의 의미를 곱씹으며 읽는 고전.",
+      "sourceUrl": "https://standardebooks.org/ebooks/charlotte-bronte/jane-eyre",
+      "sourceRepository": "https://github.com/standardebooks/charlotte-bronte_jane-eyre",
+      "sourceCommit": "f0b188283cdc96670a2f629e312fffb57440f4e6",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "wordCount": 186910,
+      "readingMinutes": 850,
+      "chapterCount": 40,
+      "mainChapterCount": 38,
+      "file": "books/jane-eyre.json",
+      "txt": "txt/jane-eyre.txt",
+      "sourceCredits": [
+        {
+          "name": "The League of Moveable Type",
+          "roles": [
+            "tyd"
+          ]
+        },
+        {
+          "name": "Vilhelm Hammershøi",
+          "roles": [
+            "art"
+          ]
+        },
+        {
+          "name": "François Grandjean",
+          "roles": [
+            "ann"
+          ]
+        },
+        {
+          "name": "David Price",
+          "roles": [
+            "trc"
+          ]
+        },
+        {
+          "name": "Emma Sweeney",
+          "roles": [
+            "bkp",
+            "blw",
+            "cov",
+            "mrk",
+            "pfr",
+            "tyg"
+          ]
+        },
+        {
+          "name": "Alex Cabal",
+          "roles": [
+            "pfr"
+          ]
+        }
+      ],
+      "rightsNote": "원작 저자 1855년 사망; 한국의 보수적 사후 70년 계산도 1925년 말 종료. Standard Ebooks 판본 기여분 CC0 1.0; 원문은 해당 판본이 미국 퍼블릭 도메인으로 명시. 영어 원작이며 원작 내 다른 언어 구절 보존."
+    },
+    {
+      "id": "wuthering-heights",
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "language": "en",
+      "publishedYear": 1847,
+      "authorDeathYear": 1848,
+      "genre": "gothic",
+      "description": "황야의 분위기 속에서 강렬한 감정을 마주하는 고전.",
+      "sourceUrl": "https://standardebooks.org/ebooks/emily-bronte/wuthering-heights",
+      "sourceRepository": "https://github.com/standardebooks/emily-bronte_wuthering-heights",
+      "sourceCommit": "eef92e19ac95d89b0e5c845e927d49061fc95092",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "wordCount": 116443,
+      "readingMinutes": 530,
+      "chapterCount": 34,
+      "mainChapterCount": 34,
+      "file": "books/wuthering-heights.json",
+      "txt": "txt/wuthering-heights.txt",
+      "sourceCredits": [
+        {
+          "name": "The League of Moveable Type",
+          "roles": [
+            "tyd"
+          ]
+        },
+        {
+          "name": "George Frederic Watts",
+          "roles": [
+            "art"
+          ]
+        },
+        {
+          "name": "David Price",
+          "roles": [
+            "trc"
+          ]
+        },
+        {
+          "name": "Sami Siddiqui",
+          "roles": [
+            "bkp",
+            "mrk",
+            "pfr",
+            "tyg"
+          ]
+        },
+        {
+          "name": "Robin Whittleton",
+          "roles": [
+            "bkp",
+            "blw",
+            "cov",
+            "mrk",
+            "pfr",
+            "tyg"
+          ]
+        },
+        {
+          "name": "Alex Cabal",
+          "roles": [
+            "pfr"
+          ]
+        }
+      ],
+      "rightsNote": "원작 저자 1848년 사망; 한국의 보수적 사후 70년 계산도 1918년 말 종료. Standard Ebooks 판본 기여분 CC0 1.0; 원문은 해당 판본이 미국 퍼블릭 도메인으로 명시. 영어 원작이며 원작 내 다른 언어 구절 보존."
+    },
+    {
+      "id": "moby-dick",
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "language": "en",
+      "publishedYear": 1851,
+      "authorDeathYear": 1891,
+      "genre": "adventure",
+      "description": "바다와 집념을 긴 호흡으로 탐색하는 고전.",
+      "sourceUrl": "https://standardebooks.org/ebooks/herman-melville/moby-dick",
+      "sourceRepository": "https://github.com/standardebooks/herman-melville_moby-dick",
+      "sourceCommit": "d313179e05e7196feee2ed47a97d43949126f11a",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "wordCount": 213476,
+      "readingMinutes": 971,
+      "chapterCount": 162,
+      "mainChapterCount": 135,
+      "file": "books/moby-dick.json",
+      "txt": "txt/moby-dick.txt",
+      "sourceCredits": [
+        {
+          "name": "The League of Moveable Type",
+          "roles": [
+            "tyd"
+          ]
+        },
+        {
+          "name": "Albert Pinkham Ryder",
+          "roles": [
+            "art"
+          ]
+        },
+        {
+          "name": "Daniel Lazarus",
+          "roles": [
+            "trc"
+          ]
+        },
+        {
+          "name": "Jonesey",
+          "roles": [
+            "trc"
+          ]
+        },
+        {
+          "name": "David Widger",
+          "roles": [
+            "trc"
+          ]
+        },
+        {
+          "name": "Robin Whittleton",
+          "roles": [
+            "bkp",
+            "blw",
+            "cov",
+            "mrk",
+            "pfr",
+            "tyg",
+            "wat"
+          ]
+        }
+      ],
+      "rightsNote": "원작 저자 1891년 사망; 한국의 보수적 사후 70년 계산도 1961년 말 종료. Standard Ebooks 판본 기여분 CC0 1.0; 원문은 해당 판본이 미국 퍼블릭 도메인으로 명시. 영어 원작이며 원작 내 다른 언어 구절 보존."
+    },
+    {
+      "id": "dracula",
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "language": "en",
+      "publishedYear": 1897,
+      "authorDeathYear": 1912,
+      "genre": "horror",
+      "description": "기록과 편지가 쌓아 올리는 공포를 즐기는 고전.",
+      "sourceUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula",
+      "sourceRepository": "https://github.com/standardebooks/bram-stoker_dracula",
+      "sourceCommit": "e9e81aadf8b235fb6498728bce54b0967e224612",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "wordCount": 161113,
+      "readingMinutes": 733,
+      "chapterCount": 30,
+      "mainChapterCount": 27,
+      "file": "books/dracula.json",
+      "txt": "txt/dracula.txt",
+      "sourceCredits": [
+        {
+          "name": "The League of Moveable Type",
+          "roles": [
+            "tyd"
+          ]
+        },
+        {
+          "name": "Joseph Magnus Stäck",
+          "roles": [
+            "art"
+          ]
+        },
+        {
+          "name": "Chuck Greif",
+          "roles": [
+            "trc"
+          ]
+        },
+        {
+          "name": "Distributed Proofreaders",
+          "roles": [
+            "trc"
+          ]
+        },
+        {
+          "name": "Alex Cabal",
+          "roles": [
+            "bkp",
+            "blw",
+            "cov",
+            "mrk",
+            "pfr",
+            "tyg"
+          ]
+        }
+      ],
+      "rightsNote": "원작 저자 1912년 사망; 한국의 보수적 사후 70년 계산도 1982년 말 종료. Standard Ebooks 판본 기여분 CC0 1.0; 원문은 해당 판본이 미국 퍼블릭 도메인으로 명시. 영어 원작이며 원작 내 다른 언어 구절 보존."
+    },
+    {
+      "id": "hound-of-the-baskervilles",
+      "title": "The Hound of the Baskervilles",
+      "author": "Arthur Conan Doyle",
+      "language": "en",
+      "publishedYear": 1902,
+      "authorDeathYear": 1930,
+      "genre": "mystery",
+      "description": "불길한 전설과 관찰의 힘이 만나는 추리 고전.",
+      "sourceUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-hound-of-the-baskervilles",
+      "sourceRepository": "https://github.com/standardebooks/arthur-conan-doyle_the-hound-of-the-baskervilles",
+      "sourceCommit": "39839ab1766697d6c22905d33a74964329be268c",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "wordCount": 59301,
+      "readingMinutes": 270,
+      "chapterCount": 16,
+      "mainChapterCount": 15,
+      "file": "books/hound-of-the-baskervilles.json",
+      "txt": "txt/hound-of-the-baskervilles.txt",
+      "sourceCredits": [
+        {
+          "name": "The League of Moveable Type",
+          "roles": [
+            "tyd"
+          ]
+        },
+        {
+          "name": "Caspar David Friedrich",
+          "roles": [
+            "art"
+          ]
+        },
+        {
+          "name": "Shreevatsa R",
+          "roles": [
+            "trc"
+          ]
+        },
+        {
+          "name": "David Widger",
+          "roles": [
+            "trc"
+          ]
+        },
+        {
+          "name": "David Grigg",
+          "roles": [
+            "bkp",
+            "blw",
+            "cov",
+            "mrk",
+            "pfr",
+            "tyg"
+          ]
+        },
+        {
+          "name": "Alex Cabal",
+          "roles": [
+            "pfr"
+          ]
+        }
+      ],
+      "rightsNote": "원작 저자 1930년 사망; 한국의 보수적 사후 70년 계산도 2000년 말 종료. Standard Ebooks 판본 기여분 CC0 1.0; 원문은 해당 판본이 미국 퍼블릭 도메인으로 명시. 영어 원작이며 원작 내 다른 언어 구절 보존."
+    },
+    {
+      "id": "time-machine",
+      "title": "The Time Machine",
+      "author": "H. G. Wells",
+      "language": "en",
+      "publishedYear": 1895,
+      "authorDeathYear": 1946,
+      "genre": "science-fiction",
+      "description": "시간 여행을 통해 사회의 모습을 돌아보는 과학소설.",
+      "sourceUrl": "https://standardebooks.org/ebooks/h-g-wells/the-time-machine",
+      "sourceRepository": "https://github.com/standardebooks/h-g-wells_the-time-machine",
+      "sourceCommit": "9fd22d612e6ed35cd07a8ed5e3ccdc4856c05088",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "wordCount": 32462,
+      "readingMinutes": 148,
+      "chapterCount": 15,
+      "mainChapterCount": 12,
+      "file": "books/time-machine.json",
+      "txt": "txt/time-machine.txt",
+      "sourceCredits": [
+        {
+          "name": "The League of Moveable Type",
+          "roles": [
+            "tyd"
+          ]
+        },
+        {
+          "name": "Paul Cézanne",
+          "roles": [
+            "art"
+          ]
+        },
+        {
+          "name": "Distributed Proofreaders",
+          "roles": [
+            "trc"
+          ]
+        },
+        {
+          "name": "Alex Cabal",
+          "roles": [
+            "bkp",
+            "blw",
+            "cov",
+            "mrk",
+            "pfr",
+            "tyg"
+          ]
+        }
+      ],
+      "rightsNote": "원작 저자 1946년 사망; 한국의 보수적 사후 70년 계산도 2016년 말 종료. Standard Ebooks 판본 기여분 CC0 1.0; 원문은 해당 판본이 미국 퍼블릭 도메인으로 명시. 영어 원작이며 원작 내 다른 언어 구절 보존."
+    },
+    {
+      "id": "jekyll-and-hyde",
+      "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+      "author": "Robert Louis Stevenson",
+      "language": "en",
+      "publishedYear": 1886,
+      "authorDeathYear": 1894,
+      "genre": "gothic",
+      "description": "인간의 이중성을 좇는 짧고 강렬한 고딕 고전.",
+      "sourceUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
+      "sourceRepository": "https://github.com/standardebooks/robert-louis-stevenson_the-strange-case-of-dr-jekyll-and-mr-hyde",
+      "sourceCommit": "bb6ccb4d19e94d71588dbacbd3a48aa6cd1846ed",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "wordCount": 25682,
+      "readingMinutes": 117,
+      "chapterCount": 10,
+      "mainChapterCount": 10,
+      "file": "books/jekyll-and-hyde.json",
+      "txt": "txt/jekyll-and-hyde.txt",
+      "sourceCredits": [
+        {
+          "name": "The League of Moveable Type",
+          "roles": [
+            "tyd"
+          ]
+        },
+        {
+          "name": "Hans von Marées",
+          "roles": [
+            "art"
+          ]
+        },
+        {
+          "name": "David Widger",
+          "roles": [
+            "trc"
+          ]
+        },
+        {
+          "name": "Alex Cabal",
+          "roles": [
+            "bkp",
+            "blw",
+            "cov",
+            "mrk",
+            "pfr",
+            "tyg"
+          ]
+        }
+      ],
+      "rightsNote": "원작 저자 1894년 사망; 한국의 보수적 사후 70년 계산도 1964년 말 종료. Standard Ebooks 판본 기여분 CC0 1.0; 원문은 해당 판본이 미국 퍼블릭 도메인으로 명시. 영어 원작이며 원작 내 다른 언어 구절 보존."
+    }
+  ]
+}

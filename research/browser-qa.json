@@ -1,0 +1,25 @@
+{
+  "observedAt": "2026-10-26T06:05:14.923237+00:00",
+  "all12BooksOpenedInUi": true,
+  "readerBlackRgb": [
+    0,
+    0,
+    0
+  ],
+  "defaultTextRgb": [
+    240,
+    240,
+    240
+  ],
+  "fontSize32AndSansPassed": true,
+  "chapterNavigationPassed": true,
+  "searchAustenMatches": 1,
+  "sfFilterResult": "The Time Machine",
+  "bookmarksSavedAndListed": true,
+  "scrollRestoredBeforeAfterPx": [
+    518,
+    518
+  ],
+  "mobileWidth390NoHorizontalOverflow": true,
+  "nativeTxtDownloadAutomation": "unverified: download-event driver timed out; standard same-origin download links present; TXT file hashes verified"
+}

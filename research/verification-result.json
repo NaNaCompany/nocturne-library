@@ -1,0 +1,13 @@
+{
+  "verified": true,
+  "books": 12,
+  "sourceFilesVerifiedAgainstGitCommit": 506,
+  "textBlocksVerified": 19476,
+  "translatedBooks": 0,
+  "sourceBodiesCompleteWithinDocumentedScope": true,
+  "fullIllustratedEditions": false,
+  "unclassifiedSpineFiles": 0,
+  "utf8Lf": true,
+  "allExportHashesVerified": true,
+  "method": "independent source-text traversal + ordered export stream equality; exact local source SHA256 and Git blob SHA1; pinned commit, clean source checkout, complete OPF spine classification, exact JSON-to-TXT equality"
+}
