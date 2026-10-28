@@ -8,7 +8,7 @@ DIST = ROOT / 'dist'
 LANGS = ['ko', 'en', 'es', 'zh', 'ja', 'de']
 STATIC = r'''
 밤의 서재¦The night library¦La biblioteca nocturna¦夜间书房¦夜の書斎¦Die Nachtbibliothek
-검은 화면, 흰 글자. 저작권이 만료된 소설의 원문을 조용히 읽는 밤의 서재.¦A black screen, white words. Read original classic novels in a quiet night library.¦Pantalla negra, letras blancas. Lee novelas clásicas en su idioma original.¦黑色屏幕，白色文字。在安静的夜间书房阅读经典小说原文。¦黒い画面、白い文字。静かな夜の書斎で古典小説の原文を読む。¦Schwarzer Bildschirm, weiße Schrift. Klassische Romane im Original lesen.
+검은 배경에서 한국어·영어 원문을 읽는 전자책 서재. 소설·기행·기행가사를 수록하며 작품별 출처와 이용 조건을 제공합니다.¦Read Korean and English texts on a black background. Includes fiction, travel writing and travel verse (gasa), with sources and reuse terms for each work.¦Lee textos en coreano e inglés sobre fondo negro. Incluye narrativa, relatos de viaje y versos de viaje (gasa), con fuentes y condiciones de uso por obra.¦在黑色背景上阅读韩语及英语原文。收录小说、游记及纪行歌辞，并提供各作品的来源与使用条件。¦黒い背景で韓国語・英語の原文を読む電子書籍ライブラリ。小説・紀行・紀行歌辞（カサ）を収録し、作品ごとの出典と利用条件を掲載しています。¦Koreanische und englische Texte auf schwarzem Hintergrund lesen. Enthalten sind Literatur, Reiseberichte und Reiseverse (Gasa), mit Quellen und Nutzungsbedingungen für jedes Werk.
 본문으로 이동¦Skip to content¦Saltar al contenido¦跳至正文¦本文へ移動¦Zum Inhalt springen
 NOCTURNE 서재¦NOCTURNE library¦Biblioteca NOCTURNE¦NOCTURNE 书房¦NOCTURNE 書斎¦NOCTURNE Bibliothek
 서재 메뉴¦Library navigation¦Navegación de la biblioteca¦书房导航¦書斎メニュー¦Bibliotheksnavigation
@@ -62,10 +62,10 @@ More Apps ↗¦More Apps ↗¦Más aplicaciones ↗¦更多应用 ↗¦ほかの
 책갈피 닫기¦Close bookmarks¦Cerrar marcadores¦关闭书签¦しおりを閉じる¦Lesezeichen schließen
 원문과 출처¦Originals & sources¦Originales y fuentes¦原文与来源¦原文と出典¦Originale & Quellen
 출처 닫기¦Close sources¦Cerrar fuentes¦关闭来源¦出典を閉じる¦Quellen schließen
-번역본을 수록하지 않았습니다. 원작의 문장을 읽기 화면에 맞춰 나누었으며, 원작 안의 다른 언어 구절은 그대로 보존합니다.¦No translations are included. Original texts are divided for reading on screen; passages in other languages remain unchanged.¦No se incluyen traducciones. Los textos originales se dividen para la lectura en pantalla; los pasajes en otros idiomas se conservan.¦本应用不收录译本。原文按阅读界面分段，作品中其他语言的文字保持不变。¦翻訳版は収録していません。原文を画面で読みやすく区切り、原作中の他言語の文章もそのまま保存しています。¦Es sind keine Übersetzungen enthalten. Originaltexte werden für den Bildschirm gegliedert; anderssprachige Passagen bleiben unverändert.
+작품별 수록 판본과 범위를 확인하세요. 본문은 읽기 화면에 맞춰 문단으로 나누었으며, 출처·이용 조건·변환 내역은 각 작품 아래에 표시합니다.¦Check each work’s edition and included scope. Text is divided into paragraphs for reading; sources, reuse terms and conversion notes appear below each work.¦Consulta la edición y el contenido incluido de cada obra. El texto se divide en párrafos; las fuentes, condiciones de uso y notas de conversión aparecen en cada obra.¦请查看各作品的版本和收录范围。正文按段落显示，各作品下方列有来源、使用条件及转换说明。¦各作品の版と収録範囲をご確認ください。本文は読書用に段落へ分け、出典・利用条件・変換内容は作品ごとに表示します。¦Prüfe Ausgabe und Umfang jedes Werks. Der Text ist in Absätze gegliedert; Quellen, Nutzungsbedingungen und Umwandlungshinweise stehen beim jeweiligen Werk.
 화면·소프트웨어¦Interface & software¦Interfaz y software¦界面与软件¦画面・ソフトウェア¦Oberfläche & Software
-인터페이스와 타이포그래피 표지는 이 앱을 위해 직접 제작했습니다. 외부 이미지·웹폰트·JavaScript 라이브러리를 사용하지 않습니다. 독서 기록은 서버로 전송하지 않습니다.¦The interface and typographic covers were created for this app. No external images, web fonts or JavaScript libraries are used. Reading records are not sent to a server.¦La interfaz y las portadas tipográficas se crearon para esta aplicación. No se usan imágenes, fuentes web ni bibliotecas JavaScript externas. Los registros de lectura no se envían a un servidor.¦界面和文字封面为本应用原创。不使用外部图片、网络字体或 JavaScript 库。阅读记录不会发送至服务器。¦インターフェースと文字による表紙は本アプリ用に制作しました。外部画像・ウェブフォント・JavaScript ライブラリは使用せず、読書記録をサーバーに送信しません。¦Oberfläche und typografische Cover wurden für diese App erstellt. Externe Bilder, Webfonts und JavaScript-Bibliotheken werden nicht verwendet. Lesedaten werden nicht an einen Server gesendet.
-원작은 한국·미국의 보호기간을 확인했습니다. 수집 에디션의 편집 기여분은 CC0 1.0입니다. 작품별 원문·권리 근거와 변환 내역은 아래 자료에서 확인할 수 있습니다.¦Copyright terms for the originals were checked for Korea and the United States. Editorial contributions in these editions are CC0 1.0. The records below document each text, its rights and its conversion. This is not a claim of worldwide public-domain status.¦Se comprobaron los plazos de protección en Corea y Estados Unidos. Las aportaciones editoriales de estas ediciones son CC0 1.0. Los registros siguientes documentan los textos, derechos y conversiones. No se afirma que sean de dominio público en todo el mundo.¦已核查原作在韩国与美国的保护期限。所收录版本的编辑贡献采用 CC0 1.0。各作品原文、权利依据及转换记录见下方资料。这不代表作品在全球均属公有领域。¦原作の保護期間は韓国と米国について確認しています。収録版の編集上の貢献は CC0 1.0 です。作品ごとの原文・権利根拠・変換記録は下記資料をご覧ください。世界中での保護期間終了を主張するものではありません。¦Die Schutzfristen der Originale wurden für Korea und die USA geprüft. Redaktionelle Beiträge dieser Ausgaben stehen unter CC0 1.0. Die folgenden Nachweise dokumentieren Texte, Rechte und Umwandlung. Eine weltweite Gemeinfreiheit wird nicht behauptet.
+인터페이스와 타이포그래피 표지는 이 앱을 위해 직접 제작했습니다. 리더 본체는 외부 이미지·웹폰트를 사용하지 않습니다. 운영 사이트에는 분석·광고용 외부 스크립트가 포함됩니다. 읽던 위치와 책갈피는 이 기기에 저장합니다.¦The interface and typographic covers were created for this app. The reader itself uses no external images or web fonts. The public site includes external analytics and advertising scripts. Reading positions and bookmarks are saved on this device.¦La interfaz y las portadas tipográficas se crearon para esta aplicación. El lector no usa imágenes ni fuentes web externas. El sitio público incluye scripts externos de análisis y publicidad. La posición de lectura y los marcadores se guardan en este dispositivo.¦界面和文字封面为本应用原创。阅读器本体不使用外部图片或网络字体。公开站点包含用于分析和广告的外部脚本。阅读位置和书签保存在此设备上。¦インターフェースと文字による表紙は本アプリ用に制作しました。リーダー本体は外部画像・ウェブフォントを使用しません。公開サイトには分析・広告用の外部スクリプトが含まれます。読書位置としおりはこの端末に保存します。¦Oberfläche und typografische Cover wurden für diese App erstellt. Der Reader selbst verwendet keine externen Bilder oder Webfonts. Die öffentliche Website enthält externe Analyse- und Werbeskripte. Lesepositionen und Lesezeichen werden auf diesem Gerät gespeichert.
+원작과 전자판의 이용 조건은 작품마다 다릅니다. Standard Ebooks 판본의 편집 기여분은 CC0 1.0이며, 한국어 작품은 각 판본의 별도 권리 고지를 확인하세요. 전 세계 보호기간 종료를 주장하지 않습니다.¦Reuse terms differ by work and electronic edition. Editorial contributions to Standard Ebooks editions are CC0 1.0. See the separate rights notices for Korean editions. No worldwide public-domain status is claimed.¦Las condiciones varían según la obra y la edición digital. Las aportaciones editoriales de Standard Ebooks son CC0 1.0. Consulta los avisos de derechos de cada edición coreana. No se afirma un dominio público mundial.¦各作品和电子版本的使用条件不同。Standard Ebooks 的编辑贡献采用 CC0 1.0。韩语作品请查看各版本的独立权利说明。不主张全球公有领域状态。¦原作と電子版の利用条件は作品ごとに異なります。Standard Ebooks の編集上の貢献は CC0 1.0 です。韓国語作品は各版の権利表記をご確認ください。全世界での保護期間終了を主張しません。¦Die Nutzungsbedingungen unterscheiden sich je nach Werk und digitaler Ausgabe. Redaktionelle Beiträge von Standard Ebooks stehen unter CC0 1.0. Für koreanische Ausgaben gelten die jeweiligen Rechtehinweise. Eine weltweite Gemeinfreiheit wird nicht behauptet.
 전체 출처·권리 자료 ↗¦Complete sources & rights records ↗¦Fuentes y derechos completos ↗¦完整来源与权利资料 ↗¦すべての出典・権利資料 ↗¦Vollständige Quellen- und Rechtenachweise ↗
 A QUIETER PLACE TO READ¦A QUIETER PLACE TO READ¦UN LUGAR TRANQUILO PARA LEER¦静心阅读之处¦静かに読める場所¦EIN RUHIGER ORT ZUM LESEN
 AFTER HOURS, BETWEEN PAGES.¦AFTER HOURS, BETWEEN PAGES.¦AL CAER LA NOCHE, ENTRE PÁGINAS.¦夜深时分，书页之间。¦夜更け、ページのあいだに。¦ZU SPÄTER STUNDE, ZWISCHEN SEITEN.
@@ -78,6 +78,12 @@ A LINE TO RETURN TO¦A LINE TO RETURN TO¦UNA LÍNEA A LA QUE VOLVER¦值得重�
 WORDS THAT BELONG TO EVERYONE¦WORDS THAT BELONG TO EVERYONE¦PALABRAS PARA COMPARTIR¦文字的来处¦言葉の出典をたどる¦WOHER DIE WORTE KOMMEN
 Serif <span>¦Serif <span>¦Con serifa <span>¦衬线 <span>¦セリフ <span>¦Serifen <span>
 Sans <span>¦Sans <span>¦Sin serifa <span>¦无衬线 <span>¦サンセリフ <span>¦Serifenlos <span>
+'''
+STATIC += r'''
+한국 소설¦Korean fiction¦Narrativa coreana¦韩国小说¦韓国小説¦Koreanische Literatur
+기행¦Travel writing¦Literatura de viajes¦游记¦紀行¦Reiseliteratur
+외부 원문 안내¦External source references¦Referencias a textos externos¦外部原文指引¦外部原文の案内¦Externe Originaltexte
+아래 작품은 앱에 본문을 수록하지 않았습니다. 원문 링크를 직접 열어 확인하세요. 서재의 읽을 수 있는 책 수에는 포함하지 않습니다.¦These works are not included in the app. Open the source links to read them. They do not count toward the books available in the library.¦Estas obras no están incluidas en la aplicación. Abre los enlaces para leerlas. No se cuentan entre los libros disponibles en la biblioteca.¦以下作品未在应用内收录正文。请自行打开原文链接阅读，不计入书房可读书籍数量。¦以下の作品の本文はアプリに収録していません。原文リンクを直接開いて確認してください。書斎で読める本の数には含みません。¦Diese Werke sind nicht in der App enthalten. Öffne die Quellenlinks zum Lesen. Sie zählen nicht zu den verfügbaren Büchern der Bibliothek.
 '''
 DYNAMIC = r'''
 storageError¦이 브라우저에서는 독서 기록을 저장할 수 없어요.¦This browser cannot save reading records.¦Este navegador no puede guardar el progreso.¦此浏览器无法保存阅读记录。¦このブラウザでは読書記録を保存できません。¦Dieser Browser kann keine Lesedaten speichern.
@@ -120,9 +126,9 @@ originalLanguage¦원작 언어 {language}¦Original language: {language}¦Idiom
 sourceInfo¦저자 사망 {year}년. 원작 보호기간과 에디션의 CC0 1.0 이용 조건을 확인했습니다. XHTML 본문을 UTF-8 TXT와 문단 데이터로 변환했으며 문장을 번역하거나 재작성하지 않았습니다.¦The author died in {year}. Copyright terms and the edition’s CC0 1.0 terms were checked. XHTML text was converted to UTF-8 TXT and paragraph data without translation or rewriting.¦El autor falleció en {year}. Se comprobaron la protección del original y las condiciones CC0 1.0 de la edición. El XHTML se convirtió a TXT UTF-8 y datos por párrafos sin traducir ni reescribir.¦作者于{year}年去世。已核查原作保护期限与该版本的 CC0 1.0 使用条件。XHTML 正文已转换为 UTF-8 TXT 及段落数据，未经翻译或改写。¦著者は {year} 年没。原作の保護期間と版の CC0 1.0 条件を確認しました。XHTML 本文を UTF-8 TXT と段落データに変換し、翻訳や書き換えはしていません。¦Der Autor starb {year}. Schutzfrist und CC0-1.0-Bedingungen der Ausgabe wurden geprüft. XHTML wurde ohne Übersetzung oder Umschreiben in UTF-8-TXT und Absatzdaten umgewandelt.
 rightsInfo¦한국의 보수적 사후 70년 계산은 {end}년 말 종료. Standard Ebooks 판본 기여분은 CC0 1.0이며 해당 판본은 원문을 미국 퍼블릭 도메인으로 명시합니다. 원작 안의 다른 언어 구절은 보존했습니다. 전 세계 보호기간 종료를 주장하지 않습니다.¦Under a conservative life-plus-70 calculation for Korea, the term ended at the close of {end}. Standard Ebooks edition contributions are CC0 1.0; the edition identifies the source text as U.S. public domain. Passages in other languages are preserved. No worldwide expiry is claimed.¦Según el cálculo conservador de vida más 70 años en Corea, el plazo terminó a finales de {end}. Las aportaciones de Standard Ebooks son CC0 1.0; la edición identifica el original como dominio público en EE. UU. Se conservan los pasajes en otros idiomas. No se afirma una expiración mundial.¦按韩国保守的作者终身加70年计算，保护期于{end}年末结束。Standard Ebooks 版本贡献采用 CC0 1.0；该版本将原文列为美国公有领域作品。其他语言段落保持不变。不主张全球保护期均已结束。¦韓国で保守的に没後70年を適用すると、保護期間は {end} 年末に終了。Standard Ebooks の版への貢献は CC0 1.0 で、同版は原文を米国のパブリックドメインと明記しています。他言語の文章も保存しています。世界中での保護期間終了を主張しません。¦Nach einer vorsichtigen Berechnung mit 70 Jahren nach dem Tod endete die Frist in Korea Ende {end}. Beiträge zur Standard-Ebooks-Ausgabe stehen unter CC0 1.0; sie bezeichnet den Ausgangstext als in den USA gemeinfrei. Anderssprachige Passagen bleiben erhalten. Eine weltweite Gemeinfreiheit wird nicht behauptet.
 edition¦원문 에디션 ↗¦Original edition ↗¦Edición original ↗¦原文版本 ↗¦原文の版 ↗¦Originalausgabe ↗
-pinnedSource¦고정된 원문 소스 ↗¦Pinned source revision ↗¦Revisión de origen fijada ↗¦固定版本原文源码 ↗¦固定版の原文ソース ↗¦Fixierter Quellstand ↗
+pinnedSource¦수록 판본 자료 ↗¦Edition reference ↗¦Referencia de la edición ↗¦收录版本资料 ↗¦収録版の資料 ↗¦Ausgabenreferenz ↗
 download¦TXT 저장 ↓¦Download TXT ↓¦Descargar TXT ↓¦下载 TXT ↓¦TXT を保存 ↓¦TXT herunterladen ↓
-shelfCount¦영어 원작 {n}권 · EN¦{n} ORIGINAL BOOKS · EN¦{n} LIBROS ORIGINALES · EN¦{n}部英语原作 · EN¦英語原作 {n}冊 · EN¦{n} ORIGINALBÜCHER · EN
+shelfCount¦수록 원문 {n}권¦{n} original texts¦{n} textos originales¦{n}部原文¦原文 {n}冊¦{n} Originaltexte
 loadLibraryError¦서재를 불러오지 못했어요.¦Could not load the library.¦No se pudo cargar la biblioteca.¦无法加载书房。¦書斎を読み込めませんでした。¦Die Bibliothek konnte nicht geladen werden.
 retry¦다시 불러오기 ↗¦Try again ↗¦Reintentar ↗¦重新加载 ↗¦再読み込み ↗¦Erneut versuchen ↗
 checkConnection¦연결 상태를 확인해 주세요¦Please check your connection¦Comprueba tu conexión¦请检查网络连接¦接続状態を確認してください¦Bitte prüfe deine Verbindung
@@ -130,9 +136,42 @@ language¦언어¦Language¦Idioma¦语言¦言語¦Sprache
 closeLanguage¦언어 선택 닫기¦Close language selection¦Cerrar selección de idioma¦关闭语言选择¦言語選択を閉じる¦Sprachauswahl schließen
 '''
 
+DYNAMIC += r'''
+korean-modern¦한국 근대소설¦Modern Korean fiction¦Narrativa coreana moderna¦韩国近代小说¦韓国近代小説¦Moderne koreanische Literatur
+korean-classic¦한국 고전소설¦Classical Korean fiction¦Narrativa clásica coreana¦韩国古典小说¦韓国古典小説¦Klassische koreanische Literatur
+travel¦기행¦Travel writing¦Literatura de viajes¦游记¦紀行¦Reiseliteratur
+unknownYear¦발행 연도 미상¦Publication year unknown¦Año de publicación desconocido¦出版年份不详¦刊行年不明¦Erscheinungsjahr unbekannt
+eojeolCount¦약 {n}어절 (인쇄 줄바꿈을 포함한 공백 기준 추산)¦Approx. {n} Korean spacing units (eojeol; estimated from whitespace, including print line breaks)¦Aprox. {n} unidades coreanas (eojeol; estimadas por espacios y saltos de línea del impreso)¦约{n}个韩语语节（按空白估算，含原印本换行）¦約{n}韓国語節（原印刷の改行を含む空白からの概算）¦Ca. {n} koreanische Einheiten (Eojeol; anhand von Leerraum einschließlich Druckzeilenumbrüchen geschätzt)
+wordCount¦{n}단어¦{n} words¦{n} palabras¦{n}词¦{n}語¦{n} Wörter
+referenceNotice¦외부 원문 안내 · 앱에 본문 미수록 · 책 수에 미포함¦External source reference · Text not included in the app · Not counted as a library book¦Referencia externa · Texto no incluido en la aplicación · No cuenta como libro de la biblioteca¦外部原文指引 · 应用未收录正文 · 不计入书籍数量¦外部原文の案内・本文未収録・本の数に含みません¦Externer Originaltext · Nicht in der App enthalten · Zählt nicht als Bibliotheksbuch
+openExternalSource¦외부 원문 열기 ↗¦Open external source ↗¦Abrir texto externo ↗¦打开外部原文 ↗¦外部原文を開く ↗¦Externen Originaltext öffnen ↗
+publicDomain¦퍼블릭 도메인¦Public domain¦Dominio público¦公有领域¦パブリックドメイン¦Gemeinfrei
+seeRights¦권리 고지 확인¦See rights notice¦Consultar aviso de derechos¦查看权利说明¦権利表記を確認¦Siehe Rechtehinweis
+editionScope¦판본·수록 범위¦Edition and included scope¦Edición y contenido incluido¦版本与收录范围¦版・収録範囲¦Ausgabe und Umfang
+rightsNotice¦권리 고지¦Rights notice¦Aviso de derechos¦权利说明¦権利表記¦Rechtehinweis
+sourceInstitution¦출처 기관¦Source institution¦Institución de origen¦来源机构¦出典機関¦Quelleninstitution
+includedScope¦수록 상태¦Included scope¦Estado del contenido¦收录状态¦収録状況¦Enthaltener Umfang
+sourceCredits¦출처 기여자¦Source contributors¦Colaboradores de la fuente¦来源贡献者¦出典の貢献者¦Mitwirkende der Quelle
+creditSource¦기여 출처 ↗¦Contribution source ↗¦Fuente de la contribución ↗¦贡献来源 ↗¦貢献の出典 ↗¦Beitragsquelle ↗
+editionLicense¦전자판 이용 조건¦Electronic edition terms¦Condiciones de la edición digital¦电子版本使用条件¦電子版の利用条件¦Bedingungen der digitalen Ausgabe
+sourceHistory¦원문 편집 이력 ↗¦Source revision history ↗¦Historial de revisiones ↗¦原文修订历史 ↗¦原文の編集履歴 ↗¦Versionsgeschichte der Quelle ↗
+'''
+
+DYNAMIC += r'''
+attributionNotice¦저작자·제공자 표시¦Author and provider attribution¦Atribución de autoría y proveedor¦作者与提供方署名¦著作者・提供者の表示¦Namensnennung von Autor und Anbieter
+modificationNotice¦변환·변경 내역¦Conversion and modification notes¦Notas de conversión y modificación¦转换与修改说明¦変換・変更内容¦Umwandlungs- und Änderungshinweise
+sourceVersionNotice¦출처 판본·버전 안내¦Source edition and version notes¦Notas de edición y versión de la fuente¦来源版本说明¦出典の版・バージョン情報¦Hinweise zu Quellenausgabe und Version
+'''
+
+DYNAMIC += r'''
+scanPageRevisions¦개별 전사 페이지 고정판·기여자 ↗¦Transcribed page revisions and contributors ↗¦Revisiones y colaboradores de cada página transcrita ↗¦各转录页面固定版本与贡献者 ↗¦各翻刻ページの固定版・貢献者 ↗¦Versionsstände und Mitwirkende der einzelnen Transkriptionsseiten ↗
+'''
+
 def parse_rows(raw, dynamic=False):
     result = {}
     for row in raw.strip('\n').splitlines():
+        if not row.strip():
+            continue
         cells = row.split('¦')
         assert len(cells) == (7 if dynamic else 6), (cells[0], len(cells))
         result[cells[0]] = cells[1:] if dynamic else [cells[0], *cells[1:]]

@@ -1,0 +1,32 @@
+{
+  "ready": true,
+  "app": "NOCTURNE",
+  "projectId": "appgprj_6adecbac1f2c81918effada55cb263ab",
+  "scope": "Six-language interface localization only; publication and final supported-browser QA remain with parent agent.",
+  "languageRoutes": {"ko":"/","en":"/en/","es":"/es/","zh":"/zh/","ja":"/ja/","de":"/de/"},
+  "changes": [
+    "Six static localized HTML routes, shared application logic, and a 48-key runtime UI catalog.",
+    "Localized search, genre filters, empty and failure states, reader navigation, settings, focus controls, bookmarks, sources, rights explanations, loading messages, and accessibility labels.",
+    "Accessible shelf and reader language selection saves reading position and retains the current book hash.",
+    "Existing visual system retained with small responsive accommodations for longer translations.",
+    "Subroute base paths preserve shared assets, data fetches and TXT downloads. Same-page links retain their locale.",
+    "Original novel text, book titles, authors, TXT files, source package hashes and hosting identity remain unchanged."
+  ],
+  "tests": {
+    "pythonValidation": "passed",
+    "javascriptSyntax": "passed for app.js and locales.js",
+    "languageRouteStaticChecks": "passed for all six routes",
+    "runtimeCatalogParity": "passed: 48 nonempty keys per language",
+    "nonKoreanRoutesContainKoreanUi": "none; native language names are intentional",
+    "originalPackageHashes": "passed: 27 of 27",
+    "books": 12,
+    "sourceSections": 450,
+    "nonemptyReaderSections": 447,
+    "originalWords": 1149507,
+    "translatedBooks": 0,
+    "newExternalImagesFontsLibraries": 0,
+    "supportedBrowserQA": "pending parent agent; baseline browser QA does not verify this locale change",
+    "excludedBrowserAttempt": "Direct Node Playwright with installed Chrome was attempted before the parent clarified the supported-CUA-only task restriction. It was stopped and excluded from acceptance evidence; its temporary driver and screenshots were removed."
+  },
+  "deployment": "Existing owner-private Site is being updated through the native Sites source helper. The authoritative deployment result is recorded outside this source tree in game-ideas/batch-20261026-1600/deployment-nocturne.json. Hosting identity and audience remain unchanged. Browser acceptance is unverified because no supported CUA session is available."
+}

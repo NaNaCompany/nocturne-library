@@ -1,32 +1,82 @@
 {
-  "ready": true,
+  "schemaVersion": 2,
   "app": "NOCTURNE",
-  "projectId": "appgprj_6adecbac1f2c81918effada55cb263ab",
-  "scope": "Six-language interface localization only; publication and final supported-browser QA remain with parent agent.",
-  "languageRoutes": {"ko":"/","en":"/en/","es":"/es/","zh":"/zh/","ja":"/ja/","de":"/de/"},
-  "changes": [
-    "Six static localized HTML routes, shared application logic, and a 48-key runtime UI catalog.",
-    "Localized search, genre filters, empty and failure states, reader navigation, settings, focus controls, bookmarks, sources, rights explanations, loading messages, and accessibility labels.",
-    "Accessible shelf and reader language selection saves reading position and retains the current book hash.",
-    "Existing visual system retained with small responsive accommodations for longer translations.",
-    "Subroute base paths preserve shared assets, data fetches and TXT downloads. Same-page links retain their locale.",
-    "Original novel text, book titles, authors, TXT files, source package hashes and hosting identity remain unchanged."
-  ],
-  "tests": {
-    "pythonValidation": "passed",
-    "javascriptSyntax": "passed for app.js and locales.js",
-    "languageRouteStaticChecks": "passed for all six routes",
-    "runtimeCatalogParity": "passed: 48 nonempty keys per language",
-    "nonKoreanRoutesContainKoreanUi": "none; native language names are intentional",
-    "originalPackageHashes": "passed: 27 of 27",
-    "books": 12,
-    "sourceSections": 450,
-    "nonemptyReaderSections": 447,
-    "originalWords": 1149507,
-    "translatedBooks": 0,
-    "newExternalImagesFontsLibraries": 0,
-    "supportedBrowserQA": "pending parent agent; baseline browser QA does not verify this locale change",
-    "excludedBrowserAttempt": "Direct Node Playwright with installed Chrome was attempted before the parent clarified the supported-CUA-only task restriction. It was stopped and excluded from acceptance evidence; its temporary driver and screenshots were removed."
+  "verifiedOn": "2026-10-28",
+  "url": "https://nanalab.kr/nocturne-library/",
+  "scope": "Ten reviewed Korean text editions added; twelve original English editions preserved. No newly created literary translation.",
+  "books": {
+    "total": 22,
+    "english": 12,
+    "korean": 10,
+    "externalReferencesExcluded": 1
   },
-  "deployment": "Existing owner-private Site is being updated through the native Sites source helper. The authoritative deployment result is recorded outside this source tree in game-ideas/batch-20261026-1600/deployment-nocturne.json. Hosting identity and audience remain unchanged. Browser acceptance is unverified because no supported CUA session is available."
+  "languageRoutes": {
+    "ko": "/",
+    "en": "/en/",
+    "es": "/es/",
+    "zh": "/zh/",
+    "ja": "/ja/",
+    "de": "/de/"
+  },
+  "textVerification": {
+    "schemaVersion": 2,
+    "verifiedOn": "2026-10-28",
+    "books": 22,
+    "originalEnglishBooks": 12,
+    "koreanBooks": 10,
+    "externalReferences": 1,
+    "wordCount": 1254363,
+    "englishWordCount": 1149507,
+    "koreanEojeolCount": 104856,
+    "countNote": "wordCount is a compatibility aggregate of English word tokens and approximate Korean whitespace units; they are reported separately above. Original print line breaks may split Korean words. Character counts are Unicode code points, not graphemes.",
+    "sectionCount": 481,
+    "mainChapterCount": 428,
+    "verifiedTextBlocks": 24424,
+    "translatedBooks": 0,
+    "sourceToExportBodyIntegrity": true,
+    "integrityBoundary": "Original 24 English book/TXT files retain pinned 2026-10-26 byte hashes. Korean chapter text equals the reviewed frozen transcription snapshots; this does not assert manual glyph collation of every historical printed page.",
+    "jsonBytes": 8027985,
+    "txtBytes": 7738259
+  },
+  "rights": {
+    "koreanOfficialExpiredEditions": 7,
+    "koreanCCBYSA40Transcriptions": 3,
+    "englishCC0Editions": 12,
+    "sourceOriginalAndEditionRightsAssessedSeparately": true,
+    "worldwidePublicDomainClaim": false,
+    "dongmyeong": "External reference only. Modern-spelling edition provenance unconfirmed; no app body or TXT.",
+    "independentReview": "research/korean-editions/RIGHTS-REVIEW.md"
+  },
+  "checks": {
+    "readerVMMinimumAssertions": 253,
+    "readerVMLocales": 6,
+    "publicOutputTests": 55,
+    "sitemapUrls": 28,
+    "staticBookPages": 22,
+    "oldEnglishBodyByteHashes": 24,
+    "exportPackageHashes": 48,
+    "transcludedPageRevisions": 289,
+    "localBrowser": "375px and 360px responsive reading, old Hangul, real contents navigation, bookmarks, font setting, language switch retaining book and setting, source terms, TXT link activation; console errors 0.",
+    "downloadBoundary": "TXT click activated; body bytes and license footers are independently checked via file/HTTP, not a claim of a manually opened OS download.",
+    "deviceBoundary": "Browser viewport emulation, not physical-device QA."
+  },
+  "deployment": {
+    "type": "GitHub Pages",
+    "branch": "main",
+    "path": "/docs",
+    "publicationBoundary": "This report records the reviewed build. Exact pushed commit, Pages completion and live-byte readback are recorded in the workspace release audit and UpdateQue.md after publication."
+  },
+  "publisherIntegrations": [
+    "GA4",
+    "Google Tag Manager",
+    "AdSense",
+    "Cloudflare Web Analytics"
+  ],
+  "localPublisherRequests": 0,
+  "preserved": [
+    "Original English literary content and 24 pinned body files",
+    "Existing six UI locales",
+    "Original visual design",
+    "Reader localStorage keys, bookmarks, history and settings"
+  ]
 }

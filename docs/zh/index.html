@@ -4,7 +4,7 @@
   <base href="../">
   <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
   <meta name="theme-color" content="#000000"><meta name="color-scheme" content="dark">
-  <title>NOCTURNE · 夜间书房 · NaNa Lab</title>
+  <title>NOCTURNE · 夜间书房</title>
 
 
   <link rel="icon" href="icon.svg" type="image/svg+xml"><link rel="stylesheet" href="style.css">
@@ -12,7 +12,7 @@
   <script src="app.js" defer></script>
 
 <meta name="robots" content="index,follow">
-<meta name="description" content="在黑底白字界面阅读 12 部原文小说，使用字体与字号调整、目录、阅读位置和书签。">
+<meta name="description" content="阅读10部韩国开化期小说、古典小说及纪行歌辞和12部英语原作。黑底阅读器提供目录、书签、TXT下载及各版本来源。">
 <link rel="canonical" href="https://nanalab.kr/nocturne-library/zh/">
 <link rel="alternate" hreflang="ko" href="https://nanalab.kr/nocturne-library/">
 <link rel="alternate" hreflang="en" href="https://nanalab.kr/nocturne-library/en/">
@@ -24,54 +24,54 @@
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://nanalab.kr/nocturne-library/zh/">
 <meta property="og:title" content="NOCTURNE · 夜间书房">
-<meta property="og:description" content="在黑底白字界面阅读 12 部原文小说，使用字体与字号调整、目录、阅读位置和书签。">
+<meta property="og:description" content="阅读10部韩国开化期小说、古典小说及纪行歌辞和12部英语原作。黑底阅读器提供目录、书签、TXT下载及各版本来源。">
 <meta property="og:image" content="https://nanalab.kr/nocturne-library/og/zh.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="NOCTURNE · 夜间书房">
-<meta name="twitter:description" content="在黑底白字界面阅读 12 部原文小说，使用字体与字号调整、目录、阅读位置和书签。">
+<meta name="twitter:description" content="阅读10部韩国开化期小说、古典小说及纪行歌辞和12部英语原作。黑底阅读器提供目录、书签、TXT下载及各版本来源。">
 <meta name="twitter:image" content="https://nanalab.kr/nocturne-library/og/zh.jpg">
 <link rel="stylesheet" href="public.css">
-
-<!-- NaNa publisher: AdSense -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9767176956440077"
-        crossorigin="anonymous"></script>
-<!-- /NaNa publisher: AdSense -->
-<!-- NaNa publisher: GTM -->
-<script>
-        (function (w, d, s, l, i) {
-            w[l] = w[l] || []; w[l].push({
-                'gtm.start':
-                    new Date().getTime(), event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })
-            (window, document, 'script', 'dataLayer', 'GTM-NV2WWQXB');
-    </script>
-<!-- /NaNa publisher: GTM -->
-<!-- NaNa publisher: Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-2ZYSF0173P"></script>
-<script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
-        gtag('config', 'G-2ZYSF0173P');
-    </script>
-<!-- /NaNa publisher: Analytics -->
+<!-- publisher-tracking:start -->
+<script data-publisher-bootstrap>
+(function(w,d){
+  'use strict';
+  var host=String(w.location.hostname||'').toLowerCase();
+  if(w.location.protocol!=='https:' || !(host==='nanacompany.github.io'||host==='nanalab.kr'||host.endsWith('.nanalab.kr')))return;
+  if(w.__nanaPublisherLoaded)return;
+  w.__nanaPublisherLoaded=true;
+  var ids={gtm:'GTM-NV2WWQXB',ga:'G-2ZYSF0173P',ads:'ca-pub-9767176956440077',cf:'9f3423bb0d034d91bbe1a12afeff2429'};
+  function add(src,attrs){
+    var all=d.querySelectorAll('script[src]');
+    for(var i=0;i<all.length;i++)if(all[i].src===src)return all[i];
+    var s=d.createElement('script');s.async=true;s.src=src;
+    Object.keys(attrs||{}).forEach(function(k){s.setAttribute(k,attrs[k]);});
+    d.head.appendChild(s);return s;
+  }
+  w.dataLayer=w.dataLayer||[];
+  w.gtag=w.gtag||function(){w.dataLayer.push(arguments);};
+  w.dataLayer.push({'gtm.start':Date.now(),event:'gtm.js'});
+  add('https://www.googletagmanager.com/gtm.js?id='+ids.gtm);
+  add('https://www.googletagmanager.com/gtag/js?id='+ids.ga);
+  // Suppress automatic full URL/referrer collection; never pass game input here.
+  w.gtag('js',new Date());
+  w.gtag('config',ids.ga,{send_page_view:false,page_location:w.location.origin+w.location.pathname,page_referrer:''});
+  w.gtag('event','page_view',{page_location:w.location.origin+w.location.pathname,page_referrer:'',page_title:d.title});
+  add('https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client='+ids.ads,{crossorigin:'anonymous'});
+  function beacon(){
+    if(d.querySelector('script[src*="static.cloudflareinsights.com/beacon.min.js"]'))return;
+    add('https://static.cloudflareinsights.com/beacon.min.js',{'data-cf-beacon':JSON.stringify({token:ids.cf})});
+  }
+  // Delay until the document is parsed so an edge-injected beacon is reused.
+  if(d.readyState==='loading')d.addEventListener('DOMContentLoaded',beacon,{once:true});else beacon();
+})(window,document);
+</script>
+<!-- publisher-tracking:end -->
 </head>
 <body>
-<!-- NaNa publisher: GTM fallback -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NV2WWQXB" height="0" width="0"
-            style="display:none;visibility:hidden"></iframe></noscript>
-<!-- /NaNa publisher: GTM fallback -->
-
-  <a class="skip-link" href="zh/#library-main">跳至正文</a>
+<!-- publisher-noscript:start --><noscript data-publisher-gtm-fallback="GTM-NV2WWQXB"><!-- GTM noscript iframe omitted: static HTML cannot restrict iframe requests to production HTTPS. --></noscript><!-- publisher-noscript:end -->
+<a class="skip-link" href="zh/#library-main">跳至正文</a>
   <div id="library-view">
     <header class="site-header shell">
       <a class="brand" href="zh/#" aria-label="NOCTURNE 书房"><span class="brand-mark" aria-hidden="true">n</span><span>NOCTURNE<small>夜间书房</small></span></a>
@@ -82,15 +82,17 @@
       <section class="intro"><div><p class="eyebrow">夜深时分，书页之间。</p><h1>夜色渐深，<br>故事<em>更深。</em></h1><p class="intro-copy">调暗屏幕，让文字余韵悠长。<br>此刻，遇见未经翻译的经典原文。</p></div><div class="intro-aside"><span class="line-star" aria-hidden="true">✳</span><p>黑色屏幕。<br>白色文字。<br>只有你与故事。</p><span id="shelf-count">正在打开书房</span></div></section>
       <section id="continue-section" class="continue-section" hidden aria-labelledby="continue-title"><div><p class="eyebrow">从上次停下的地方</p><h2 id="continue-title">继续上次的故事</h2></div><button id="continue-reading" class="continue-card"></button></section>
       <section id="featured" class="featured" aria-label="今夜之书"><div class="loading-state">正在加载图书。</div></section>
-      <section class="collection" aria-labelledby="collection-title"><div class="collection-heading"><div><p class="eyebrow">原作典藏</p><h2 id="collection-title">陪伴夜晚的书</h2></div><label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="按书名或作者搜索" autocomplete="off" aria-label="按书名或作者搜索"><kbd>/</kbd></label></div><div class="shelf-tools"><div id="filters" class="filters" aria-label="类型筛选"><button class="filter active" data-filter="all" aria-pressed="true">全部</button><button class="filter" data-filter="classic" aria-pressed="false">经典·剧情</button><button class="filter" data-filter="gothic" aria-pressed="false">哥特·推理</button><button class="filter" data-filter="adventure" aria-pressed="false">冒险·奇幻</button><button class="filter" data-filter="scifi" aria-pressed="false">SF</button></div><p id="result-count" aria-live="polite"></p></div><div id="book-grid" class="book-grid"></div><p id="empty-state" class="empty-state" hidden>未找到匹配图书。请尝试其他书名或作者。</p></section>
+      <section class="collection" aria-labelledby="collection-title"><div class="collection-heading"><div><p class="eyebrow">原作典藏</p><h2 id="collection-title">陪伴夜晚的书</h2></div><label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="按书名或作者搜索" autocomplete="off" aria-label="按书名或作者搜索"><kbd>/</kbd></label></div><div class="shelf-tools"><div id="filters" class="filters" aria-label="类型筛选"><button class="filter active" data-filter="all" aria-pressed="true">全部</button><button class="filter" data-filter="classic" aria-pressed="false">经典·剧情</button><button class="filter" data-filter="gothic" aria-pressed="false">哥特·推理</button><button class="filter" data-filter="adventure" aria-pressed="false">冒险·奇幻</button><button class="filter" data-filter="scifi" aria-pressed="false">SF</button><button class="filter" data-filter="korean" aria-pressed="false">韩国小说</button><button class="filter" data-filter="travel" aria-pressed="false">游记</button></div><p id="result-count" aria-live="polite"></p></div><div id="book-grid" class="book-grid"></div><p id="empty-state" class="empty-state" hidden>未找到匹配图书。请尝试其他书名或作者。</p></section>
+      <section id="references-section" class="references-section" hidden aria-labelledby="references-title"><h2 id="references-title">外部原文指引</h2><p class="reference-note">以下作品未在应用内收录正文。请自行打开原文链接阅读，不计入书房可读书籍数量。</p><div id="references-list"></div></section>
     </main>
-    <footer class="site-footer shell"><div class="footer-brand">NOCTURNE<span>再读一句，然后晚安。</span></div><div class="footer-links"><span>保留原文 · 记录存于此设备</span><button id="library-sources" class="text-button">原文、版权与使用说明 ↗</button><a href="https://nanalab.kr/apps/" target="_blank" rel="noopener noreferrer">更多应用 ↗</a></div></footer>
+    <details class="edition-index shell"><summary>版本、来源与目录</summary><ul><li><a href="https://nanalab.kr/nocturne-library/book/ko-hyeorui-nu/" lang="ko">혈의 누 (상편) · 이인직</a></li><li><a href="https://nanalab.kr/nocturne-library/book/ko-chiaksan-upper/" lang="ko">치악산 (상편) · 이인직</a></li><li><a href="https://nanalab.kr/nocturne-library/book/jayujong/" lang="ko">자유종 · 이해조</a></li><li><a href="https://nanalab.kr/nocturne-library/book/gumageom/" lang="ko">구마검 · 이해조</a></li><li><a href="https://nanalab.kr/nocturne-library/book/binsangseol/" lang="ko">빈상설 · 이해조</a></li><li><a href="https://nanalab.kr/nocturne-library/book/hwaui-hyeol/" lang="ko">화의 혈 · 이해조</a></li><li><a href="https://nanalab.kr/nocturne-library/book/ahn-gongjinhoe/" lang="ko">공진회 · 안국선</a></li><li><a href="https://nanalab.kr/nocturne-library/book/ahn-geumsuhoeuirok/" lang="ko">금수회의록 · 안국선</a></li><li><a href="https://nanalab.kr/nocturne-library/book/heogyun-honggildong-30/" lang="ko">홍길동전 (30장 경판본) · 허균 (전칭)</a></li><li><a href="https://nanalab.kr/nocturne-library/book/gwandong-byeolgok/" lang="ko">관동별곡 · 정철</a></li><li><a href="https://nanalab.kr/nocturne-library/book/great-gatsby/" lang="en">The Great Gatsby · F. Scott Fitzgerald</a></li><li><a href="https://nanalab.kr/nocturne-library/book/pride-and-prejudice/" lang="en">Pride and Prejudice · Jane Austen</a></li><li><a href="https://nanalab.kr/nocturne-library/book/frankenstein/" lang="en">Frankenstein · Mary Shelley</a></li><li><a href="https://nanalab.kr/nocturne-library/book/alice-in-wonderland/" lang="en">Alice’s Adventures in Wonderland · Lewis Carroll</a></li><li><a href="https://nanalab.kr/nocturne-library/book/picture-of-dorian-gray/" lang="en">The Picture of Dorian Gray · Oscar Wilde</a></li><li><a href="https://nanalab.kr/nocturne-library/book/jane-eyre/" lang="en">Jane Eyre · Charlotte Brontë</a></li><li><a href="https://nanalab.kr/nocturne-library/book/wuthering-heights/" lang="en">Wuthering Heights · Emily Brontë</a></li><li><a href="https://nanalab.kr/nocturne-library/book/moby-dick/" lang="en">Moby Dick · Herman Melville</a></li><li><a href="https://nanalab.kr/nocturne-library/book/dracula/" lang="en">Dracula · Bram Stoker</a></li><li><a href="https://nanalab.kr/nocturne-library/book/hound-of-the-baskervilles/" lang="en">The Hound of the Baskervilles · Arthur Conan Doyle</a></li><li><a href="https://nanalab.kr/nocturne-library/book/time-machine/" lang="en">The Time Machine · H. G. Wells</a></li><li><a href="https://nanalab.kr/nocturne-library/book/jekyll-and-hyde/" lang="en">The Strange Case of Dr. Jekyll and Mr. Hyde · Robert Louis Stevenson</a></li></ul></details>
+<footer class="site-footer shell"><div class="footer-brand">NOCTURNE<span>再读一句，然后晚安。</span></div><div class="footer-links"><span>保留原文 · 记录存于此设备</span><button id="library-sources" class="text-button">原文、版权与使用说明 ↗</button><a href="https://nanalab.kr/apps/" target="_blank" rel="noopener noreferrer">更多应用 ↗</a></div></footer>
   </div>
 
   <section id="reader-view" class="reader" hidden aria-label="电子书阅读器">
     <header class="reader-header"><button id="back-library" class="icon-button" aria-label="返回书房"><span aria-hidden="true">←</span><span class="desktop-label">书房</span></button><div class="reader-book-heading"><span id="reader-book-title"></span><small id="reader-author"></small></div><div class="reader-actions"><button id="reader-language" class="icon-button language-button" aria-label="语言">文</button><button id="reader-toc" class="icon-button" aria-label="打开目录">☷</button><button id="reader-bookmark" class="icon-button" aria-label="为当前位置添加书签" aria-pressed="false">♧</button><button id="reader-settings" class="icon-button type-button" aria-label="阅读设置">Aa</button><button id="reader-focus" class="icon-button" aria-label="进入专注模式">⛶</button></div></header>
     <div class="reader-progress-track"><div id="reader-progress-bar"></div></div>
-    <main id="reading-scroll" class="reading-scroll" tabindex="-1"><article id="reading-page" class="reading-page" lang="en"><div class="chapter-opening"><p id="chapter-label" class="eyebrow"></p><h1 id="chapter-title"></h1><div class="chapter-rule"></div></div><div id="chapter-text" class="chapter-text"></div><nav lang="zh" class="chapter-navigation" aria-label="章节导航"><button id="previous-chapter"><span>← 上一节</span><small id="previous-title"></small></button><span id="chapter-count"></span><button id="next-chapter"><span>下一节 →</span><small id="next-title"></small></button></nav><p lang="zh" id="book-finished" class="book-finished" hidden>与你共读，直到最后一句。<br><button id="finish-library" class="text-button">邂逅下一个故事 ↗</button></p><button lang="zh" id="reader-sources" class="reader-source-link">本书原文与来源</button></article></main>
+    <main id="reading-scroll" class="reading-scroll" tabindex="-1"><article id="reading-page" class="reading-page"><div class="chapter-opening"><p id="chapter-label" class="eyebrow"></p><h1 id="chapter-title"></h1><div class="chapter-rule"></div></div><div id="chapter-text" class="chapter-text"></div><nav lang="zh" class="chapter-navigation" aria-label="章节导航"><button id="previous-chapter"><span>← 上一节</span><small id="previous-title"></small></button><span id="chapter-count"></span><button id="next-chapter"><span>下一节 →</span><small id="next-title"></small></button></nav><p lang="zh" id="book-finished" class="book-finished" hidden>与你共读，直到最后一句。<br><button id="finish-library" class="text-button">邂逅下一个故事 ↗</button></p><button lang="zh" id="reader-sources" class="reader-source-link">本书原文与来源</button></article></main>
     <footer class="reader-footer"><button id="footer-toc" class="text-button"><span id="footer-chapter"></span> <span class="muted">⌄</span></button><span id="reader-progress-label">0%</span><span id="reader-time-left"></span></footer>
     <button id="exit-focus" class="exit-focus" hidden>退出专注模式 ⛶</button>
   </section>
@@ -98,25 +100,7 @@
   <dialog id="settings-dialog" class="panel" aria-labelledby="settings-heading"><header class="panel-header"><div><p class="eyebrow">让阅读更舒适</p><h2 id="settings-heading">适合夜晚的文字</h2></div><button class="close-dialog icon-button" aria-label="关闭阅读设置">×</button></header><div class="setting"><span class="setting-label">字体</span><div class="segmented"><button id="font-serif" data-font="serif" aria-pressed="true">衬线 <span>文学质感</span></button><button id="font-sans" data-font="sans" aria-pressed="false">无衬线 <span>清晰易读</span></button></div></div><div class="setting"><label for="font-size">字号 <output id="font-size-value">22px</output></label><input id="font-size" type="range" min="16" max="32" step="1" value="22"></div><div class="setting"><label for="line-height">行距 <output id="line-height-value">1.9</output></label><input id="line-height" type="range" min="1.5" max="2.3" step="0.1" value="1.9"></div><div class="setting"><label for="reading-width">文本宽度 <output id="reading-width-value">680px</output></label><input id="reading-width" type="range" min="480" max="860" step="20" value="680"></div><div class="setting"><label for="text-brightness">文字亮度 <output id="text-brightness-value">94%</output></label><input id="text-brightness" type="range" min="65" max="100" step="1" value="94"></div><div class="type-preview" lang="en">So we beat on, boats against the current…</div><p class="panel-note">背景始终为黑色。设置与阅读位置保存在此浏览器中。</p><button id="reset-settings" class="text-button">恢复默认设置</button></dialog>
   <dialog id="contents-dialog" class="panel" aria-labelledby="contents-heading"><header class="panel-header"><div><p class="eyebrow">找到你的章节</p><h2 id="contents-heading">目录</h2></div><button class="close-dialog icon-button" aria-label="关闭目录">×</button></header><p id="contents-book" class="panel-book-title"></p><div id="contents-list" class="contents-list"></div></dialog>
   <dialog id="bookmarks-dialog" class="panel" aria-labelledby="bookmarks-heading"><header class="panel-header"><div><p class="eyebrow">值得重读的一句</p><h2 id="bookmarks-heading">我的书签</h2></div><button class="close-dialog icon-button" aria-label="关闭书签">×</button></header><div id="bookmarks-list" class="bookmarks-list"></div></dialog>
-  <dialog id="sources-dialog" class="panel sources-panel" aria-labelledby="sources-heading"><header class="panel-header"><div><p class="eyebrow">文字的来处</p><h2 id="sources-heading">原文与来源</h2></div><button class="close-dialog icon-button" aria-label="关闭来源">×</button></header><p class="source-intro">本应用不收录译本。原文按阅读界面分段，作品中其他语言的文字保持不变。</p><div id="sources-list"></div><div class="software-notice"><h3>界面与软件</h3><p>界面和文字封面为本应用原创。不使用外部图片、网络字体或 JavaScript 库。阅读记录不会发送至服务器。</p><p>已核查原作在韩国与美国的保护期限。所收录版本的编辑贡献采用 CC0 1.0。各作品原文、权利依据及转换记录见下方资料。这不代表作品在全球均属公有领域。</p><a href="data/sources.json" target="_blank" rel="noopener">完整来源与权利资料 ↗</a></div></dialog>
+  <dialog id="sources-dialog" class="panel sources-panel" aria-labelledby="sources-heading"><header class="panel-header"><div><p class="eyebrow">文字的来处</p><h2 id="sources-heading">原文与来源</h2></div><button class="close-dialog icon-button" aria-label="关闭来源">×</button></header><p class="source-intro">请查看各作品的版本和收录范围。正文按段落显示，各作品下方列有来源、使用条件及转换说明。</p><div id="sources-list"></div><div class="software-notice"><h3>界面与软件</h3><p>界面和文字封面为本应用原创。阅读器本体不使用外部图片或网络字体。公开站点包含用于分析和广告的外部脚本。阅读位置和书签保存在此设备上。</p><p>各作品和电子版本的使用条件不同。Standard Ebooks 的编辑贡献采用 CC0 1.0。韩语作品请查看各版本的独立权利说明。不主张全球公有领域状态。</p><a href="data/sources.json" target="_blank" rel="noopener">完整来源与权利资料 ↗</a></div></dialog>
   <dialog id="language-dialog" class="panel" aria-labelledby="language-heading"><header class="panel-header"><h2 id="language-heading">语言</h2><button class="close-dialog icon-button" aria-label="关闭语言选择">×</button></header><label class="language-dialog-label" for="reader-language-select">语言</label><select id="reader-language-select"><option value="ko" lang="ko">한국어</option><option value="en" lang="en">English</option><option value="es" lang="es">Español</option><option value="zh" lang="zh" selected>中文</option><option value="ja" lang="ja">日本語</option><option value="de" lang="de">Deutsch</option></select></dialog><div id="toast" class="toast" role="status" aria-live="polite"></div>
-
-<!-- NaNa publisher: Cloudflare fallback -->
-<script>
-(function () {
-  function ensureBeacon() {
-    // Cloudflare may inject its beacon at the edge. Reuse that script when present.
-    if (document.querySelector('script[src*="static.cloudflareinsights.com/beacon.min.js"]')) return;
-    var beacon = document.createElement('script');
-    beacon.defer = true;
-    beacon.src = 'https://static.cloudflareinsights.com/beacon.min.js';
-    beacon.setAttribute('data-cf-beacon', JSON.stringify({token: '9f3423bb0d034d91bbe1a12afeff2429'}));
-    document.head.appendChild(beacon);
-  }
-  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', ensureBeacon, {once: true});
-  else ensureBeacon();
-})();
-</script>
-<!-- /NaNa publisher: Cloudflare fallback -->
 </body>
 </html>

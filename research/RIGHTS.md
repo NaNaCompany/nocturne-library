@@ -1,5 +1,19 @@
 # Rights and provenance
 
+## Expansion verified 2026-10-28
+
+The current library contains 22 directly readable text editions: the 12 preserved English originals documented below and 10 Korean editions. The Korean set comprises nine fiction/short-story works or stated volumes and one travel gasa, Gwandong byeolgok. Dongmyeong ilgi is an external reference only, excluded from both the readable count and downloadable text.
+
+The exact electronic edition matters separately from the underlying author's expired rights. Seven Korean works use the Korea Copyright Commission Sharing Madang files individually marked expired/free use. Three Wikisource transcriptions retain CC BY-SA 4.0 attribution, history links, fixed revisions and modification notices in the reader, static book pages, standalone JSON and TXT. The two scan-transcluded editions record all 289 individual page revisions and contributors. No CC0 claim is applied to those three texts and no collection-wide text license is imposed on unrelated app code.
+
+See [the Korean edition manifest](korean-editions/manifest.json), [independent review](korean-editions/RIGHTS-REVIEW.md), and the per-author evidence/RIGHTS.md files for source URLs, author/date evidence, electronic-edition terms, transformation notes and limitations. Frozen research inputs are SHA-256 pinned in korean-editions/sha256.json. The original 24 English JSON/TXT byte hashes remain unchanged. Historical reports below describe the original English collection, not the expanded current total.
+
+The collection preserves old spelling where supplied. Official modern-spelling transcriptions are labeled accordingly. The 1968 Eulyoo bibliography attached to two official files is retained without claiming rights to an entire modern compilation. hypua-unicoder@1.0.0 (ISC) maps the provider's private-use old-Hangul encoding to standard Unicode Jamo; its author/license notice is preserved with the conversion evidence. No new translation, paraphrase or commentary is inserted into any literary body. Complete provider transcription or specified volume does not mean independent manual collation of every historical printed glyph.
+
+The unprovenanced modern-spelling Dongmyeong ilgi transcription, unverified modern editions, unknown-death Chiaksan lower volume and the demonstrably incomplete Seongsan byeolgok provider text are excluded. Corpus redistribution restrictions and library reading-room restrictions were respected. No on-site access or automated-collection restriction was bypassed.
+
+## Original English collection audit (2026-10-26)
+
 Verified 2026-10-26. This collection selects English originals whose principal authors died by 1946. It assesses the underlying text for the United States and Korea, and separately records the license of the Standard Ebooks edition work. It makes no blanket claim that every original is public domain in every country.
 
 ## Underlying original texts

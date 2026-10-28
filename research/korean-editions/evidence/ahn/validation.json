@@ -1,0 +1,39 @@
+{
+  "verifiedAt": "2026-10-28T12:26:04.369Z",
+  "pass": true,
+  "results": [
+    {
+      "slug": "gongjinhoe",
+      "chapters": 6,
+      "paragraphs": 261,
+      "characters": 44253,
+      "sourceCharactersPreservedIgnoringWhitespace": true,
+      "validShape": true,
+      "noPUA": true,
+      "noReplacementCharacters": true,
+      "noUnprocessedWikiMarkup": true
+    },
+    {
+      "slug": "geumsuhoeuirok",
+      "chapters": 10,
+      "paragraphs": 63,
+      "characters": 23445,
+      "sourceCharactersPreservedIgnoringWhitespace": true,
+      "validShape": true,
+      "noPUA": true,
+      "noReplacementCharacters": true,
+      "noUnprocessedWikiMarkup": true
+    },
+    {
+      "slug": "honggildong-30",
+      "chapters": 1,
+      "paragraphs": 353,
+      "characters": 31551,
+      "sourceCharactersPreservedIgnoringWhitespace": null,
+      "validShape": true,
+      "noPUA": true,
+      "noReplacementCharacters": true,
+      "noUnprocessedWikiMarkup": true
+    }
+  ]
+}

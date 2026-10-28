@@ -1,0 +1,314 @@
+{
+  "schemaVersion": 1,
+  "reviewDate": "2026-10-28",
+  "reviewScope": "Independent copyright and provenance review; no app or deployment changes",
+  "decisionMeaning": {
+    "eligible-with-conditions": "Rights basis adequate for the identified version only; generated files, integrity and notices require final validation",
+    "hold": "Insufficient rights or provenance evidence; not a finding of infringement",
+    "pending": "Awaiting specific source package evidence"
+  },
+  "layerPolicy": {
+    "originalWork": "Record original author, publication, Korean and US term basis separately",
+    "transcription": "Respect Wikisource contributors rights, attribution, CC BY-SA 4.0 and actual changes where applicable",
+    "modernTranslation": "No third-party modern translation or creative editorial layer justified solely by a Wikisource page footer",
+    "publicDomain": "Do not impose new exclusive restrictions on the public-domain original",
+    "officialGonguFiles": "Use directly supplied file and its item-level expired classification; do not mix with unverified Wikisource modernization"
+  },
+  "verifiedAuthorFacts": [
+    {
+      "author": "이인직",
+      "deathYear": 1916,
+      "source": "https://encykorea.aks.ac.kr/Article/E0045632"
+    },
+    {
+      "author": "이해조",
+      "deathYear": 1927,
+      "source": "https://encykorea.aks.ac.kr/Article/E0046448"
+    },
+    {
+      "author": "안국선",
+      "deathYear": 1926,
+      "source": "https://www.anseong.go.kr/tourPortal/munhak/contents.do?mId=0800000000"
+    },
+    {
+      "author": "김교제",
+      "deathYear": null,
+      "deathStatus": "unknown",
+      "source": "https://encykorea.aks.ac.kr/Article/E0071209",
+      "incorrectUnverifiedYearNotToUse": 1933
+    },
+    {
+      "author": "정철",
+      "deathYear": 1593,
+      "source": "https://encykorea.aks.ac.kr/Article/E0050998"
+    }
+  ],
+  "decisions": [
+    {
+      "id": "hyeorui-nu",
+      "title": "혈의 누 (상편)",
+      "status": "eligible-with-conditions",
+      "sourceType": "Wikisource scan transcription",
+      "revision": 465793,
+      "conditions": [
+        "Preserve upper-volume scope",
+        "Preserve transcluded Page revisions and contributor history",
+        "CC BY-SA 4.0 notice for protected transcription contributions"
+      ]
+    },
+    {
+      "id": "chiaksan-upper",
+      "title": "치악산 (상편)",
+      "status": "eligible-with-conditions",
+      "sourceType": "Wikisource scan transcription",
+      "revision": 459697,
+      "conditions": [
+        "Author Yi Injik; upper volume only",
+        "Preserve transcluded Page revisions and contributor history",
+        "CC BY-SA 4.0 notice for protected transcription contributions"
+      ]
+    },
+    {
+      "id": "chiaksan-lower",
+      "title": "치악산 (하편)",
+      "status": "hold",
+      "reason": "Kim Gyoje death year is unknown in current official metadata; no independently verified Korean public-domain basis"
+    },
+    {
+      "id": "eunsegye-wikisource-modernized",
+      "title": "은세계 위키 현대 표기판",
+      "status": "hold",
+      "revision": 399814,
+      "reason": "1908 original publication is known, but source of modern transcription/editorial layer is unverified"
+    },
+    {
+      "id": "gwiui-seong-wikisource-modernized",
+      "title": "귀의 성 위키 현대 표기판",
+      "status": "hold",
+      "revision": 120254,
+      "reason": "Original serialization known, source of modern transcription/editorial layer unverified"
+    },
+    {
+      "id": "jayujong",
+      "title": "자유종",
+      "status": "eligible-with-conditions",
+      "sourceType": "Direct official expired-work TXT",
+      "sourceUrl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?menuNo=200019&wrtSn=9001157",
+      "rawFile": "yihaejo/raw/gongu-jayujong-original.txt",
+      "rawBytes": 66354,
+      "conditions": [
+        "Preserve original 1968 Eulyoo bibliography in metadata and download notice",
+        "Do not call modern transcription original print spelling",
+        "Preserve source, raw hash and actual modifications"
+      ]
+    },
+    {
+      "id": "gumageom-gongu",
+      "title": "구마검 공유마당 제공본",
+      "status": "eligible-with-conditions",
+      "sourceType": "Direct official expired-work TXT",
+      "sourceUrl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?menuNo=200019&wrtSn=9001147",
+      "downloadUrl": "https://gongu.copyright.or.kr/gongu/wrt/cmmn/wrtFileDownload.do?wrtSn=9001147&fileSn=3",
+      "rawFile": "yihaejo/raw/gongu-gumageom-original.txt",
+      "rawBytes": 161336,
+      "conditions": [
+        "Preserve 1968 Eulyoo bibliography",
+        "Do not generalize item-level expired classification to the entire modern edition",
+        "Do not mix unverified Wikisource text"
+      ]
+    },
+    {
+      "id": "binsangseol-gongu",
+      "title": "빈상설 공유마당 제공본",
+      "status": "eligible-with-conditions",
+      "sourceType": "Direct official expired-work historical-spelling TXT",
+      "sourceUrl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?menuNo=200019&wrtSn=13313762",
+      "rawFile": "yihaejo/raw/gongu-binsangseol-original.txt",
+      "rawBytes": 208811,
+      "conditions": [
+        "Preserve item expired-license HTML evidence",
+        "Disclose PUA to Unicode technical conversion",
+        "Do not invent missing original-source institution metadata"
+      ]
+    },
+    {
+      "id": "hwaui-hyeol-gongu",
+      "title": "화의 혈 공유마당 제공본",
+      "status": "eligible-with-conditions",
+      "sourceType": "Direct official expired-work historical-spelling TXT",
+      "sourceUrl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?menuNo=200019&wrtSn=13313763",
+      "rawFile": "yihaejo/raw/gongu-hwaui-hyeol-original.txt",
+      "rawBytes": 180979,
+      "conditions": [
+        "Preserve item expired-license HTML evidence",
+        "Disclose PUA to Unicode technical conversion",
+        "Do not invent missing original-source institution metadata"
+      ]
+    },
+    {
+      "id": "moranbyeong",
+      "title": "모란병",
+      "status": "hold",
+      "revision": 459457,
+      "reason": "Underlying Yi Haejo original meets term basis, but official record 9019101 has no directly downloadable text; collector retained Wikisource version as research only and did not select it for this release"
+    },
+    {
+      "id": "geumsuhoeuirok",
+      "title": "금수회의록",
+      "status": "eligible-with-conditions",
+      "sourceType": "Direct official expired-work TXT",
+      "sourceUrl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?menuNo=200019&wrtSn=9000635",
+      "downloadUrl": "https://gongu.copyright.or.kr/gongu/wrt/cmmn/wrtFileDownload.do?wrtSn=9000635&fileSn=4",
+      "rawFile": "ahn/geumsuhoeuirok.gongu.original.bin",
+      "rawBytes": 57405,
+      "conditions": [
+        "Use official file independently from Wikisource comparison scans",
+        "Preserve supplied modern transcription and exact source/hash",
+        "Do not claim first-edition collation"
+      ]
+    },
+    {
+      "id": "gongjinhoe-gongu",
+      "title": "공진회 공유마당 제공본",
+      "status": "eligible-with-conditions",
+      "sourceType": "Direct official expired-work TXT",
+      "sourceUrl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?menuNo=200019&wrtSn=9000634",
+      "downloadUrl": "https://gongu.copyright.or.kr/gongu/wrt/cmmn/wrtFileDownload.do?wrtSn=9000634&fileSn=4",
+      "rawFile": "ahn/gongjinhoe.gongu.original.bin",
+      "rawBytes": 108440,
+      "conditions": [
+        "Do not use held Wikisource modern transcription",
+        "Preserve direct official source and raw hash"
+      ]
+    },
+    {
+      "id": "gongjinhoe-wikisource-modernized",
+      "title": "공진회 위키 현대 정서판",
+      "status": "hold",
+      "revision": 400294,
+      "reason": "Modern transcription provenance unspecified; first upload in 2025 did not identify editorial source"
+    },
+    {
+      "id": "honggildong-30",
+      "title": "홍길동전 경판 30장본",
+      "status": "eligible-with-conditions",
+      "sourceType": "Historical-spelling Wikisource transcription",
+      "conditions": [
+        "Identify exact edition",
+        "Preserve qualified traditional author attribution if warranted by official metadata",
+        "Preserve CC BY-SA contributor attribution and revision history"
+      ]
+    },
+    {
+      "id": "dongmyeong-wikisource-modernized",
+      "title": "동명일기 의유당일기 중 현대 표기판",
+      "status": "hold",
+      "revision": 383299,
+      "reason": "2017 first upload lacks base edition and modern editorial source; original public-domain status does not resolve modernization layer"
+    },
+    {
+      "id": "gwandongbyeolgok-gongu",
+      "title": "관동별곡 공유마당 제공본",
+      "status": "eligible-with-conditions",
+      "sourceType": "Direct official expired-work historical-spelling TXT",
+      "sourceUrl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?menuNo=200019&wrtSn=13313590",
+      "rawFile": "dongmyeong/raw/gongu-gwandong-source.txt",
+      "rawTransportBytes": 5072,
+      "genre": "가사",
+      "conditions": [
+        "Preserve raw gzip response and decoded source separately with hashes",
+        "Preserve historical spelling and item-level expired classification",
+        "Do not present as a novel or as Dongmyeong Diary",
+        "First-edition line-by-line collation not claimed"
+      ]
+    }
+  ],
+  "redistributionRequirements": {
+    "licenseMinimum": "Creator and designated attribution, supplied copyright/disclaimer notices, source URI, license URL, actual changes; share-alike for covered adaptations; no additional restrictions on granted freedoms",
+    "projectProvenanceFields": [
+      "sourceUrl",
+      "sourceRevisionUrl",
+      "historyUrl",
+      "retrievedAt",
+      "edition",
+      "originalPublicationYear",
+      "originalRights",
+      "transcriptionRights",
+      "modifications",
+      "rawSha256"
+    ],
+    "provenanceFieldsAreNotAllLicenseMandated": true,
+    "txt": "Keep rights and source notice in standalone download or inseparable accompanying package",
+    "json": "Keep rights, attribution/source URLs and modification notice with body or directly linked rights record",
+    "scanTransclusion": "Parent page revision alone does not pin the transcluded Page text; retain child revisions and histories",
+    "codeAndContent": "Distinguish independent app code license, PD original and CC transcription layer"
+  },
+  "policySources": [
+    "https://www.copyright.or.kr/customer-center/faq/list.do?categorycode1=02&counselfaqno=47593&pageIndex=2&portalcode=&searchkeyword=",
+    "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=270165",
+    "https://www.copyright.gov/title17/92chap3.html",
+    "https://www.copyright.gov/gatt.html",
+    "https://ko.wikisource.org/wiki/위키문헌:저작권_정책",
+    "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/en#7._Licensing_of_Content",
+    "https://creativecommons.org/licenses/by-sa/4.0/legalcode.ko",
+    "https://gongu.copyright.or.kr/gongu/main/contents.do?menuNo=200091"
+  ],
+  "unverifiedBoundary": "No claim of full textual collation, final generated-package attribution validation, deployment validation or independent legal clearance for unspecified later editions",
+  "reviewSummary": {
+    "eligibleVersions": 10,
+    "heldVersions": 6,
+    "finalPackageValidation": "Parent must validate generated app files and deployed notices"
+  },
+  "reviewedSourceArtifacts": [
+    {
+      "path": "yiinjik/RIGHTS.md",
+      "sha256": "8962ef18190b953e8c9304f77dff473c1ae13d5a7ff892b63588e70f4348b775",
+      "bytes": 6975
+    },
+    {
+      "path": "yiinjik/metadata.json",
+      "sha256": "dce05086c0e23353429c68dcb483cd5271bce3f6707bacc1a89139dc5e8d0e74",
+      "bytes": 10597
+    },
+    {
+      "path": "yiinjik/scan-pages.json",
+      "sha256": "0c7ccbd9b31785a04fa270cf0a213ab1c6e560ece3fbbb07588edd22db040db3",
+      "bytes": 161383
+    },
+    {
+      "path": "ahn/RIGHTS.md",
+      "sha256": "9a264ba8c57ddfe4fdb2c8bbc12245b64d54a10452a9446c04afe5c0af948922",
+      "bytes": 8237
+    },
+    {
+      "path": "ahn/metadata.json",
+      "sha256": "f7009e7a01a8a15fb3f72661c2983a8eb7ce1c9f91313b1d4b9c9e33119db4b4",
+      "bytes": 10532
+    },
+    {
+      "path": "ahn/validation.json",
+      "sha256": "789a71615b8013322fea85ba7971b9baf7a84ef86bf142643c0776c96933a519",
+      "bytes": 981
+    },
+    {
+      "path": "yihaejo/RIGHTS.md",
+      "sha256": "9e9c580b4eaeceb98f6f15d7134e71d68bf087f697c088732a1402492ab68096",
+      "bytes": 8150
+    },
+    {
+      "path": "yihaejo/metadata.json",
+      "sha256": "e15ac344b78b40567faeb4c2dc019f826b4c410ae9d5b2ba1218b32d95abbe65",
+      "bytes": 18384
+    },
+    {
+      "path": "yihaejo/validation.json",
+      "sha256": "7f6f843aa6762844979522d39b273863bfaf69f0acfc94cfbb3acf9cac390320",
+      "bytes": 1934
+    },
+    {
+      "path": "dongmyeong/metadata.json",
+      "sha256": "ab020917abae110c6ba31bf0c2ea2340c459416420f5e6dd20ab68c5928c092d",
+      "bytes": 15576
+    }
+  ]
+}

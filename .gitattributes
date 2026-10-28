@@ -1,3 +1,11 @@
 # Original novel bytes are validated using their pinned SHA-256 hashes.
 dist/data/** -whitespace
 docs/data/** -whitespace
+# Keep checked literary bytes and frozen evidence stable on Windows checkouts.
+dist/data/** -text
+docs/data/** -text
+research/korean-editions/** -text
+research/original-package-20261026/** -text
+# Frozen evidence intentionally keeps provider CRLF/spacing; SHA checks apply.
+research/korean-editions/** -whitespace
+research/original-package-20261026/** -whitespace

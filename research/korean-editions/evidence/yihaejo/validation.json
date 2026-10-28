@@ -1,0 +1,61 @@
+{
+  "checkedAt": "2026-10-28T12:26:46.848Z",
+  "books": [
+    {
+      "id": "jayujong",
+      "sourceBytes": 66354,
+      "sourceByteCountMatch": true,
+      "contentConservation": true,
+      "paragraphs": 91,
+      "chapters": 1,
+      "characters": 26574,
+      "puaBefore": 0,
+      "puaRemaining": 0,
+      "replacementCharacters": 0,
+      "jsonSHA256": "a123e84d688a13b26b54e23890736b3c24ad1d9e161810348a2ad90085ea24df",
+      "txtSHA256": "b87717e09b82ff652bcc1790850bd5257f9fe3e25d2a81e0e52b56e23f6bc30f"
+    },
+    {
+      "id": "gumageom",
+      "sourceBytes": 161336,
+      "sourceByteCountMatch": true,
+      "contentConservation": true,
+      "paragraphs": 462,
+      "chapters": 1,
+      "characters": 64823,
+      "puaBefore": 0,
+      "puaRemaining": 0,
+      "replacementCharacters": 0,
+      "jsonSHA256": "28f0e71e066dd561577765eb65a92a2b23b13beecae3c0630b39072b30e3fb75",
+      "txtSHA256": "ab7739ee162e777016b6608171a33a172f176e50f8cb467cc7bdd88a61c65725"
+    },
+    {
+      "id": "binsangseol",
+      "sourceBytes": 208811,
+      "sourceByteCountMatch": true,
+      "contentConservation": true,
+      "paragraphs": 1003,
+      "chapters": 1,
+      "characters": 94645,
+      "puaBefore": 7148,
+      "puaRemaining": 0,
+      "replacementCharacters": 0,
+      "jsonSHA256": "be1e5a4a4eefe4389c08a6b3508f49e50dc40ce9619672a847c122de8ad9fd55",
+      "txtSHA256": "8964aefa8d8dad50fa1f3c0b4a524adc79edbbdbf0c2a41e4e085df47c1a8faa"
+    },
+    {
+      "id": "hwaui-hyeol",
+      "sourceBytes": 180979,
+      "sourceByteCountMatch": true,
+      "contentConservation": true,
+      "paragraphs": 622,
+      "chapters": 8,
+      "characters": 84516,
+      "puaBefore": 7204,
+      "puaRemaining": 0,
+      "replacementCharacters": 0,
+      "jsonSHA256": "0ecc1d506a8443a2ef3a4391302fee64ae8ce6f9508a4129ae9cb53f99993142",
+      "txtSHA256": "b40543378c6fd21b400c2441939b98d2c5a80ebf16a68ce13b3a91dd75c767c5"
+    }
+  ]
+}

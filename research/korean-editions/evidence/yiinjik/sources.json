@@ -1,0 +1,50 @@
+{
+  "retrievedAt": "2026-10-28T12:20:38.770Z",
+  "sources": [
+    {
+      "id": "hyeorui-nu",
+      "title": "혈의 누",
+      "revid": 465793,
+      "permalink": "https://ko.wikisource.org/w/index.php?title=%ED%98%88%EC%9D%98_%EB%88%84&oldid=465793",
+      "api": "https://ko.wikisource.org/w/api.php?action=parse&page=%ED%98%88%EC%9D%98+%EB%88%84&prop=text%7Crevid%7Cwikitext%7Csections&format=json",
+      "historyUrl": "https://ko.wikisource.org/w/index.php?title=%ED%98%88%EC%9D%98_%EB%88%84&action=history",
+      "historyFiles": 1
+    },
+    {
+      "id": "eunsegye",
+      "title": "은세계",
+      "revid": 399814,
+      "permalink": "https://ko.wikisource.org/w/index.php?title=%EC%9D%80%EC%84%B8%EA%B3%84&oldid=399814",
+      "api": "https://ko.wikisource.org/w/api.php?action=parse&page=%EC%9D%80%EC%84%B8%EA%B3%84&prop=text%7Crevid%7Cwikitext%7Csections&format=json",
+      "historyUrl": "https://ko.wikisource.org/w/index.php?title=%EC%9D%80%EC%84%B8%EA%B3%84&action=history",
+      "historyFiles": 1
+    },
+    {
+      "id": "gwiui-seong",
+      "title": "귀의 성",
+      "revid": 120254,
+      "permalink": "https://ko.wikisource.org/w/index.php?title=%EA%B7%80%EC%9D%98_%EC%84%B1&oldid=120254",
+      "api": "https://ko.wikisource.org/w/api.php?action=parse&page=%EA%B7%80%EC%9D%98+%EC%84%B1&prop=text%7Crevid%7Cwikitext%7Csections&format=json",
+      "historyUrl": "https://ko.wikisource.org/w/index.php?title=%EA%B7%80%EC%9D%98_%EC%84%B1&action=history",
+      "historyFiles": 1
+    },
+    {
+      "id": "chiaksan-upper",
+      "title": "치악산/상권",
+      "revid": 459697,
+      "permalink": "https://ko.wikisource.org/w/index.php?title=%EC%B9%98%EC%95%85%EC%82%B0%2F%EC%83%81%EA%B6%8C&oldid=459697",
+      "api": "https://ko.wikisource.org/w/api.php?action=parse&page=%EC%B9%98%EC%95%85%EC%82%B0%2F%EC%83%81%EA%B6%8C&prop=text%7Crevid%7Cwikitext%7Csections&format=json",
+      "historyUrl": "https://ko.wikisource.org/w/index.php?title=%EC%B9%98%EC%95%85%EC%82%B0%2F%EC%83%81%EA%B6%8C&action=history",
+      "historyFiles": 1
+    },
+    {
+      "id": "chiaksan-lower",
+      "title": "치악산/하권",
+      "revid": 459821,
+      "permalink": "https://ko.wikisource.org/w/index.php?title=%EC%B9%98%EC%95%85%EC%82%B0%2F%ED%95%98%EA%B6%8C&oldid=459821",
+      "api": "https://ko.wikisource.org/w/api.php?action=parse&page=%EC%B9%98%EC%95%85%EC%82%B0%2F%ED%95%98%EA%B6%8C&prop=text%7Crevid%7Cwikitext%7Csections&format=json",
+      "historyUrl": "https://ko.wikisource.org/w/index.php?title=%EC%B9%98%EC%95%85%EC%82%B0%2F%ED%95%98%EA%B6%8C&action=history",
+      "historyFiles": 1
+    }
+  ]
+}

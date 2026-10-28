@@ -2,6 +2,430 @@
   "schemaVersion": 1,
   "books": [
     {
+      "id": "ko-hyeorui-nu",
+      "title": "혈의 누 (상편)",
+      "author": "이인직",
+      "language": "ko",
+      "metadataLanguage": "ko",
+      "genre": "korean-modern",
+      "description": "청일전쟁 이후 옥련의 삶을 따라가는 신소설. 상편 원철자 전사본.",
+      "publishedYear": 1906,
+      "authorDeathYear": 1916,
+      "license": "CC-BY-SA-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://ko.wikisource.org/wiki/혈의_누",
+      "pinnedSourceUrl": "https://ko.wikisource.org/w/index.php?title=%ED%98%88%EC%9D%98_%EB%88%84&oldid=465793",
+      "historyUrl": "https://ko.wikisource.org/w/index.php?title=%ED%98%88%EC%9D%98_%EB%88%84&action=history",
+      "editionNote": "상편 전사 전체. 위키문헌 스캔 3–98쪽. 원문 말미 上編終. 하편 모란봉은 포함하지 않음.",
+      "rightsNote": "원작: 이인직 1916-11-25 사망, 1906–1908 발표로 한국 및 미국에서 보호기간 만료. 전자전사: 위키문헌 고정판/기여이력 및 CC BY-SA 4.0 조건 보존. 현대 교주본 및 번역을 사용하지 않고 스캔 원철자 전사를 사용함.",
+      "completeness": "지정 상편의 전사 전체. 하편은 포함하지 않음.",
+      "sourceInstitution": "한국어 위키문헌",
+      "sourceCredits": [
+        {
+          "name": "한국어 위키문헌 기여자",
+          "url": "https://ko.wikisource.org/w/index.php?title=%ED%98%88%EC%9D%98_%EB%88%84&action=history"
+        }
+      ],
+      "modifications": [
+        "HTML navigation, license banner, page markers, scan metadata removed from reading text",
+        "HTML entities decoded; formatting whitespace normalized; paragraphs serialized to JSON and UTF-8 text",
+        "Historical spelling retained; no modern translation or analysis added"
+      ],
+      "attribution": "이인직 원작; 한국어 위키문헌 기여자 전사·편집",
+      "sourceVersionNote": "상위 문서와 전사된 각 스캔 페이지의 고정판을 별도 기록함.",
+      "file": "books/ko-hyeorui-nu.json",
+      "txt": "txt/ko-hyeorui-nu.txt",
+      "wordCount": 5409,
+      "wordCountUnit": "eojeol",
+      "characterCount": 47382,
+      "readingMinutes": 31,
+      "chapterCount": 1,
+      "mainChapterCount": 1,
+      "scanPageRevisionsUrl": "https://nanalab.kr/nocturne-library/data/revisions/yiinjik-scan-pages.json"
+    },
+    {
+      "id": "ko-chiaksan-upper",
+      "title": "치악산 (상편)",
+      "author": "이인직",
+      "language": "ko",
+      "metadataLanguage": "ko",
+      "genre": "korean-modern",
+      "description": "가족 안의 갈등을 다룬 신소설. 이인직 집필 상편 원철자 전사본.",
+      "publishedYear": 1908,
+      "authorDeathYear": 1916,
+      "license": "CC-BY-SA-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://ko.wikisource.org/wiki/치악산/상권",
+      "pinnedSourceUrl": "https://ko.wikisource.org/w/index.php?title=%EC%B9%98%EC%95%85%EC%82%B0%2F%EC%83%81%EA%B6%8C&oldid=459697",
+      "historyUrl": "https://ko.wikisource.org/w/index.php?title=%EC%B9%98%EC%95%85%EC%82%B0%2F%EC%83%81%EA%B6%8C&action=history",
+      "editionNote": "상편 전사 전체. 스캔 1–193쪽. 김교제의 1911년 하편은 포함하지 않음.",
+      "rightsNote": "원작: 이인직 1916-11-25 사망, 1906–1908 발표로 한국 및 미국에서 보호기간 만료. 전자전사: 위키문헌 고정판/기여이력 및 CC BY-SA 4.0 조건 보존. 현대 교주본 및 번역을 사용하지 않고 스캔 원철자 전사를 사용함.",
+      "completeness": "지정 상편의 전사 전체. 하편은 포함하지 않음.",
+      "sourceInstitution": "한국어 위키문헌",
+      "sourceCredits": [
+        {
+          "name": "한국어 위키문헌 기여자",
+          "url": "https://ko.wikisource.org/w/index.php?title=%EC%B9%98%EC%95%85%EC%82%B0%2F%EC%83%81%EA%B6%8C&action=history"
+        }
+      ],
+      "modifications": [
+        "HTML navigation, license banner, page markers, scan metadata removed from reading text",
+        "HTML entities decoded; formatting whitespace normalized; paragraphs serialized to JSON and UTF-8 text",
+        "Historical spelling retained; no modern translation or analysis added"
+      ],
+      "attribution": "이인직 원작; 한국어 위키문헌 기여자 전사·편집",
+      "sourceVersionNote": "상위 문서와 전사된 각 스캔 페이지의 고정판을 별도 기록함.",
+      "file": "books/ko-chiaksan-upper.json",
+      "txt": "txt/ko-chiaksan-upper.txt",
+      "wordCount": 10508,
+      "wordCountUnit": "eojeol",
+      "characterCount": 80004,
+      "readingMinutes": 59,
+      "chapterCount": 1,
+      "mainChapterCount": 1,
+      "scanPageRevisionsUrl": "https://nanalab.kr/nocturne-library/data/revisions/yiinjik-scan-pages.json"
+    },
+    {
+      "id": "jayujong",
+      "title": "자유종",
+      "author": "이해조",
+      "language": "ko",
+      "metadataLanguage": "ko",
+      "genre": "korean-modern",
+      "description": "여성들의 토론을 통해 교육과 자유를 논하는 신소설.",
+      "publishedYear": 1910,
+      "authorDeathYear": 1927,
+      "license": "Public-domain",
+      "licenseUrl": "https://gongu.copyright.or.kr/gongu/main/contents.do?menuNo=200091",
+      "sourceUrl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?menuNo=200019&wrtSn=9001157",
+      "pinnedSourceUrl": "https://gongu.copyright.or.kr/gongu/wrt/cmmn/wrtFileDownload.do?wrtSn=9001157&fileSn=3",
+      "historyUrl": null,
+      "editionNote": "공유마당 제공 현대 표기 전사본. 원본 인쇄행 줄바꿈 보존. 초판 원철자본 아님. 저본 표기: (『한국신소설전집』, 을유문화사, 1968)",
+      "rightsNote": "원작의 보호기간 만료와 공유마당이 해당 TXT에 표시한 자유이용 만료 조건을 확인함. 이 제공 파일만 사용하며 다른 현대 판본·번역·해설의 권리를 주장하지 않음.",
+      "completeness": "공식 제공 전사본 전체. 초판 스캔과 글자별 대조한 교정판은 아님.",
+      "sourceInstitution": "한국저작권위원회 공유마당",
+      "sourceCredits": [
+        {
+          "name": "이해조 / 한국저작권위원회 공유마당",
+          "url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?menuNo=200019&wrtSn=9001157"
+        }
+      ],
+      "attribution": "이해조; 한국저작권위원회 공유마당 제공",
+      "modifications": [
+        "UTF-8 source retained byte-for-byte in raw/.",
+        "CRLF normalized to LF; leading and trailing blank lines removed.",
+        "Removed duplicate title line from reading body; title retained in book metadata.",
+        "Moved final 1968 edition citation from reading body to metadata/RIGHTS.md; citation text preserved verbatim.",
+        "Grouped indented source lines into paragraphs; original hard line breaks inside each paragraph retained. Blank print-layout lines removed. No wording, punctuation or spelling changed."
+      ],
+      "sourceVersionNote": "Provider exposes no immutable file revision. Exact downloaded bytes are archived and SHA-256 identified.",
+      "file": "books/jayujong.json",
+      "txt": "txt/jayujong.txt",
+      "wordCount": 6774,
+      "wordCountUnit": "eojeol",
+      "characterCount": 26394,
+      "readingMinutes": 38,
+      "chapterCount": 1,
+      "mainChapterCount": 1
+    },
+    {
+      "id": "gumageom",
+      "title": "구마검",
+      "author": "이해조",
+      "language": "ko",
+      "metadataLanguage": "ko",
+      "genre": "korean-modern",
+      "description": "미신을 비판하는 이해조의 신소설.",
+      "publishedYear": 1908,
+      "authorDeathYear": 1927,
+      "license": "Public-domain",
+      "licenseUrl": "https://gongu.copyright.or.kr/gongu/main/contents.do?menuNo=200091",
+      "sourceUrl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?menuNo=200019&wrtSn=9001147",
+      "pinnedSourceUrl": "https://gongu.copyright.or.kr/gongu/wrt/cmmn/wrtFileDownload.do?wrtSn=9001147&fileSn=3",
+      "historyUrl": null,
+      "editionNote": "공유마당 제공 현대 표기 전사본. 원본 인쇄행 줄바꿈 보존. 초판 원철자본 아님. 저본 표기: (『한국신소설전집』, 을유문화사, 1968)",
+      "rightsNote": "원작의 보호기간 만료와 공유마당이 해당 TXT에 표시한 자유이용 만료 조건을 확인함. 이 제공 파일만 사용하며 다른 현대 판본·번역·해설의 권리를 주장하지 않음.",
+      "completeness": "공식 제공 전사본 전체. 초판 스캔과 글자별 대조한 교정판은 아님.",
+      "sourceInstitution": "한국저작권위원회 공유마당",
+      "sourceCredits": [
+        {
+          "name": "이해조 / 한국저작권위원회 공유마당",
+          "url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?menuNo=200019&wrtSn=9001147"
+        }
+      ],
+      "attribution": "이해조; 한국저작권위원회 공유마당 제공",
+      "modifications": [
+        "UTF-8 source retained byte-for-byte in raw/.",
+        "CRLF normalized to LF; leading and trailing blank lines removed.",
+        "Removed duplicate title line from reading body; title retained in book metadata.",
+        "Moved final 1968 edition citation from reading body to metadata/RIGHTS.md; citation text preserved verbatim.",
+        "Grouped indented source lines into paragraphs; original hard line breaks inside each paragraph retained. Blank print-layout lines removed. No wording, punctuation or spelling changed."
+      ],
+      "sourceVersionNote": "Provider exposes no immutable file revision. Exact downloaded bytes are archived and SHA-256 identified.",
+      "file": "books/gumageom.json",
+      "txt": "txt/gumageom.txt",
+      "wordCount": 16470,
+      "wordCountUnit": "eojeol",
+      "characterCount": 63901,
+      "readingMinutes": 92,
+      "chapterCount": 1,
+      "mainChapterCount": 1
+    },
+    {
+      "id": "binsangseol",
+      "title": "빈상설",
+      "author": "이해조",
+      "language": "ko",
+      "metadataLanguage": "ko",
+      "genre": "korean-modern",
+      "description": "가정의 갈등을 그린 이해조의 신소설. 제공본의 옛 표기를 보존함.",
+      "publishedYear": 1908,
+      "authorDeathYear": 1927,
+      "license": "Public-domain",
+      "licenseUrl": "https://gongu.copyright.or.kr/gongu/main/contents.do?menuNo=200091",
+      "sourceUrl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?menuNo=200019&wrtSn=13313762",
+      "pinnedSourceUrl": "https://gongu.copyright.or.kr/gongu/wrt/cmmn/wrtFileDownload.do?wrtSn=13313762&fileSn=1",
+      "historyUrl": null,
+      "editionNote": "옛한글 원문. Hanyang PUA를 Unicode 첫가끝 자모로 변환.",
+      "rightsNote": "원작의 보호기간 만료와 공유마당이 해당 TXT에 표시한 자유이용 만료 조건을 확인함. 이 제공 파일만 사용하며 다른 현대 판본·번역·해설의 권리를 주장하지 않음.",
+      "completeness": "공식 제공 전사본 전체. 초판 스캔과 글자별 대조한 교정판은 아님.",
+      "sourceInstitution": "한국저작권위원회 공유마당",
+      "sourceCredits": [
+        {
+          "name": "이해조 / 한국저작권위원회 공유마당",
+          "url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?menuNo=200019&wrtSn=13313762"
+        }
+      ],
+      "attribution": "이해조; 공유마당 제공",
+      "modifications": [
+        "UTF-8 source retained byte-for-byte in raw/.",
+        "CRLF normalized to LF; leading and trailing blank lines removed.",
+        "Converted 7148 Hanyang PUA code points to Unicode Hangul Jamo using hypua-unicoder 1.0.0 (ISC); no modernization or translation.",
+        "Split original blank-line paragraph boundaries; trimmed layout whitespace at paragraph edges."
+      ],
+      "sourceVersionNote": "Provider exposes no immutable file revision. Exact downloaded bytes are archived and SHA-256 identified.",
+      "file": "books/binsangseol.json",
+      "txt": "txt/binsangseol.txt",
+      "wordCount": 21962,
+      "wordCountUnit": "eojeol",
+      "characterCount": 92641,
+      "readingMinutes": 123,
+      "chapterCount": 1,
+      "mainChapterCount": 1
+    },
+    {
+      "id": "hwaui-hyeol",
+      "title": "화의 혈",
+      "author": "이해조",
+      "language": "ko",
+      "metadataLanguage": "ko",
+      "genre": "korean-modern",
+      "description": "이해조의 신소설. 서문과 7개 회차를 제공본 표기대로 수록함.",
+      "publishedYear": 1912,
+      "authorDeathYear": 1927,
+      "license": "Public-domain",
+      "licenseUrl": "https://gongu.copyright.or.kr/gongu/main/contents.do?menuNo=200091",
+      "sourceUrl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?menuNo=200019&wrtSn=13313763",
+      "pinnedSourceUrl": "https://gongu.copyright.or.kr/gongu/wrt/cmmn/wrtFileDownload.do?wrtSn=13313763&fileSn=1",
+      "historyUrl": null,
+      "editionNote": "옛한글 원문. Hanyang PUA를 Unicode 첫가끝 자모로 변환.",
+      "rightsNote": "원작의 보호기간 만료와 공유마당이 해당 TXT에 표시한 자유이용 만료 조건을 확인함. 이 제공 파일만 사용하며 다른 현대 판본·번역·해설의 권리를 주장하지 않음.",
+      "completeness": "공식 제공 전사본 전체. 초판 스캔과 글자별 대조한 교정판은 아님.",
+      "sourceInstitution": "한국저작권위원회 공유마당",
+      "sourceCredits": [
+        {
+          "name": "이해조 / 한국저작권위원회 공유마당",
+          "url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?menuNo=200019&wrtSn=13313763"
+        }
+      ],
+      "attribution": "이해조; 공유마당 제공",
+      "modifications": [
+        "UTF-8 source retained byte-for-byte in raw/.",
+        "CRLF normalized to LF; leading and trailing blank lines removed.",
+        "Converted 7204 Hanyang PUA code points to Unicode Hangul Jamo using hypua-unicoder 1.0.0 (ISC); no modernization or translation.",
+        "Preserved original seven chapter labels. Added reader heading 서언 for the unlabelled initial preface; no prose added.",
+        "Split original blank-line paragraph boundaries; trimmed layout whitespace at paragraph edges."
+      ],
+      "sourceVersionNote": "Provider exposes no immutable file revision. Exact downloaded bytes are archived and SHA-256 identified.",
+      "file": "books/hwaui-hyeol.json",
+      "txt": "txt/hwaui-hyeol.txt",
+      "wordCount": 18713,
+      "wordCountUnit": "eojeol",
+      "characterCount": 83274,
+      "readingMinutes": 104,
+      "chapterCount": 8,
+      "mainChapterCount": 8
+    },
+    {
+      "id": "ahn-gongjinhoe",
+      "title": "공진회",
+      "author": "안국선",
+      "language": "ko",
+      "metadataLanguage": "ko",
+      "genre": "korean-modern",
+      "description": "안국선의 단편집. 서문과 세 단편을 포함한 제공 전사본.",
+      "publishedYear": 1915,
+      "authorDeathYear": 1926,
+      "publicationLabel": "1915",
+      "license": "Public-domain",
+      "licenseUrl": "https://gongu.copyright.or.kr/gongu/main/contents.do?menuNo=200091",
+      "sourceUrl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?menuNo=200019&wrtSn=9000634",
+      "pinnedSourceUrl": "https://gongu.copyright.or.kr/gongu/wrt/cmmn/wrtFileDownload.do?wrtSn=9000634&fileSn=4",
+      "historyUrl": null,
+      "editionNote": "공유마당 제공 현대 표기 전사본. 초판 원철자본이 아님.",
+      "rightsNote": "안국선 원작의 보호기간과 해당 TXT의 공식 자유이용 만료 표시를 확인함. 현대 역주·해설을 가져오지 않음.",
+      "completeness": "지정 판본 전사 전체. 원판과 글자별 대조한 교정판은 아님.",
+      "sourceInstitution": "한국저작권위원회 공유마당",
+      "sourceCredits": [
+        {
+          "name": "안국선 / 한국저작권위원회 공유마당",
+          "url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?menuNo=200019&wrtSn=9000634"
+        }
+      ],
+      "modifications": [
+        "공식 TXT UTF-8 BOM 제거 및 CRLF→LF",
+        "장 제목을 JSON장구조로 분리,문단 앞뒤 형식상 공백 정리",
+        "본문 표기·맞춤법·구두점·오식 임의수정 없음",
+        "원시 파일 bytes 별도보존.별도 주석·현대역·위키문헌 교정본 혼합 없음"
+      ],
+      "attribution": "안국선 원작 / 한국저작권위원회 공유마당 전자전사 제공. 원문 파일 및 이용조건 URL 유지.",
+      "sourceVersionNote": "전자파일은revision식별자미제공.원시bytes SHA256으로수집본고정.",
+      "file": "books/ahn-gongjinhoe.json",
+      "txt": "txt/ahn-gongjinhoe.txt",
+      "wordCount": 11274,
+      "wordCountUnit": "eojeol",
+      "characterCount": 44253,
+      "readingMinutes": 63,
+      "chapterCount": 6,
+      "mainChapterCount": 6
+    },
+    {
+      "id": "ahn-geumsuhoeuirok",
+      "title": "금수회의록",
+      "author": "안국선",
+      "language": "ko",
+      "metadataLanguage": "ko",
+      "genre": "korean-modern",
+      "description": "동물들의 연설을 통해 인간 사회를 풍자하는 우화 소설.",
+      "publishedYear": 1908,
+      "authorDeathYear": 1926,
+      "publicationLabel": "1908",
+      "license": "Public-domain",
+      "licenseUrl": "https://gongu.copyright.or.kr/gongu/main/contents.do?menuNo=200091",
+      "sourceUrl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?menuNo=200019&wrtSn=9000635",
+      "pinnedSourceUrl": "https://gongu.copyright.or.kr/gongu/wrt/cmmn/wrtFileDownload.do?wrtSn=9000635&fileSn=4",
+      "historyUrl": null,
+      "editionNote": "공유마당 제공 현대 표기 전사본. 초판 원철자본이 아님.",
+      "rightsNote": "안국선 원작의 보호기간과 해당 TXT의 공식 자유이용 만료 표시를 확인함. 현대 역주·해설을 가져오지 않음.",
+      "completeness": "지정 판본 전사 전체. 원판과 글자별 대조한 교정판은 아님.",
+      "sourceInstitution": "한국저작권위원회 공유마당",
+      "sourceCredits": [
+        {
+          "name": "안국선 / 한국저작권위원회 공유마당",
+          "url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?menuNo=200019&wrtSn=9000635"
+        }
+      ],
+      "modifications": [
+        "공식 TXT UTF-8 BOM 제거 및 CRLF→LF",
+        "장 제목을 JSON장구조로 분리,문단 앞뒤 형식상 공백 정리",
+        "본문 표기·맞춤법·구두점·오식 임의수정 없음",
+        "원시 파일 bytes 별도보존.별도 주석·현대역·위키문헌 교정본 혼합 없음"
+      ],
+      "attribution": "안국선 원작 / 한국저작권위원회 공유마당 전자전사 제공. 원문 파일 및 이용조건 URL 유지.",
+      "sourceVersionNote": "전자파일은revision식별자미제공.원시bytes SHA256으로수집본고정.",
+      "file": "books/ahn-geumsuhoeuirok.json",
+      "txt": "txt/ahn-geumsuhoeuirok.txt",
+      "wordCount": 5985,
+      "wordCountUnit": "eojeol",
+      "characterCount": 23445,
+      "readingMinutes": 34,
+      "chapterCount": 10,
+      "mainChapterCount": 10
+    },
+    {
+      "id": "heogyun-honggildong-30",
+      "title": "홍길동전 (30장 경판본)",
+      "author": "허균 (전칭)",
+      "language": "ko",
+      "metadataLanguage": "ko",
+      "genre": "korean-classic",
+      "description": "홍길동의 일대기를 다룬 고전소설. 30장 경판본의 옛 표기 전사.",
+      "publishedYear": null,
+      "authorDeathYear": null,
+      "publicationLabel": "간행연도 미상 · 30장 경판본",
+      "license": "CC-BY-SA-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://ko.wikisource.org/wiki/%ED%99%8D%EA%B8%B8%EB%8F%99%EC%A0%84_(30%EC%9E%A5_%EA%B2%BD%ED%8C%90%EB%B3%B8)",
+      "pinnedSourceUrl": "https://ko.wikisource.org/w/index.php?oldid=460078",
+      "historyUrl": "https://ko.wikisource.org/w/index.php?title=%ED%99%8D%EA%B8%B8%EB%8F%99%EC%A0%84%20(30%EC%9E%A5%20%EA%B2%BD%ED%8C%90%EB%B3%B8)&action=history",
+      "editionNote": "30장은 판본의 장수이며 읽기 장 수가 아님. 옛 표기 전사본, 허균 전칭·간행연도 미상.",
+      "rightsNote": "오래된 경판본 원작과 위키문헌 전사 기여분을 구분함. 전사·편집 기여분은 CC BY-SA 4.0으로 제공하며 기여 이력·출처·변경 내역을 보존함.",
+      "completeness": "지정 판본 전사 전체. 원판과 글자별 대조한 교정판은 아님.",
+      "sourceInstitution": "한국어 위키문헌",
+      "sourceCredits": [
+        {
+          "name": "한국어 위키문헌 기여자",
+          "url": "https://ko.wikisource.org/w/index.php?title=%ED%99%8D%EA%B8%B8%EB%8F%99%EC%A0%84%20(30%EC%9E%A5%20%EA%B2%BD%ED%8C%90%EB%B3%B8)&action=history"
+        }
+      ],
+      "modifications": [
+        "머리말·판본안내·옛한글글꼴안내·라이선스도구영역제외",
+        "위키서식제거·문단JSON변환",
+        "옛한글·구두점·표기보존.현대어번역없음"
+      ],
+      "attribution": "허균(전칭), 한국어 위키문헌 기여자",
+      "sourceVersionNote": "문서 고정판 460078",
+      "file": "books/heogyun-honggildong-30.json",
+      "txt": "txt/heogyun-honggildong-30.txt",
+      "wordCount": 7158,
+      "wordCountUnit": "eojeol",
+      "characterCount": 31551,
+      "readingMinutes": 40,
+      "chapterCount": 1,
+      "mainChapterCount": 1
+    },
+    {
+      "id": "gwandong-byeolgok",
+      "title": "관동별곡",
+      "author": "정철",
+      "language": "ko",
+      "metadataLanguage": "ko",
+      "genre": "travel",
+      "description": "1580년 강원도 관찰사 정철이 관동 지역의 경치와 유람을 기록한 기행 가사. 공유마당 제공 고어 원문.",
+      "publishedYear": null,
+      "createdYear": 1580,
+      "publicationLabel": "1580년 창작",
+      "authorDeathYear": 1593,
+      "license": "Public-domain",
+      "licenseUrl": "https://gongu.copyright.or.kr/gongu/main/contents.do?menuNo=200091",
+      "sourceUrl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?menuNo=200019&wrtSn=13313590",
+      "pinnedSourceUrl": "https://gongu.copyright.or.kr/gongu/wrt/cmmn/wrtFileDownload.do?wrtSn=13313590&fileSn=1",
+      "historyUrl": null,
+      "editionNote": "공유마당 제공 고어 원문 146행. 기행 가사이며 소설·현대어 번역이 아님.",
+      "rightsNote": "정철 원작의 보호기간 만료와 해당 TXT의 공식 자유이용 만료 표시를 확인함. 현대역·해설은 포함하지 않음.",
+      "completeness": "공식 제공 전사본 전체 146행. 원필사본 글자별 교정판은 아님.",
+      "sourceInstitution": "한국저작권위원회 공유마당",
+      "sourceCredits": [
+        {
+          "name": "정철 / 한국저작권위원회 공유마당",
+          "url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?menuNo=200019&wrtSn=13313590"
+        }
+      ],
+      "attribution": "정철, 「관동별곡」(1580). 한국저작권위원회 공유마당 제공본, G905-13313590. https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?menuNo=200019&wrtSn=13313590",
+      "modifications": [
+        "공유마당의 TXT 응답 원시 gzip 및 압축 해제 바이트를 별도 보존했다. 수록용 TXT는 UTF-8 BOM 제거, CRLF/CR를 LF로 정규화했다. JSON은 비어 있지 않은 원문 각 행을 하나의 읽기 단락으로 옮겼다. 원문의 한자·병기된 독음·옛한글 유니코드 자모·어휘·철자는 변경하지 않았다. 번역·해설은 추가하지 않았다."
+      ],
+      "sourceVersionNote": "제공 파일 revision 식별자 없음. gzip 응답 및 압축 해제 파일의 SHA-256 별도 기록.",
+      "file": "books/gwandong-byeolgok.json",
+      "txt": "txt/gwandong-byeolgok.txt",
+      "wordCount": 603,
+      "wordCountUnit": "eojeol",
+      "characterCount": 3411,
+      "readingMinutes": 4,
+      "chapterCount": 1,
+      "mainChapterCount": 1
+    },
+    {
       "id": "great-gatsby",
       "title": "The Great Gatsby",
       "author": "F. Scott Fitzgerald",
@@ -773,6 +1197,18 @@
         }
       ],
       "rightsNote": "원작 저자 1894년 사망; 한국의 보수적 사후 70년 계산도 1964년 말 종료. Standard Ebooks 판본 기여분 CC0 1.0; 원문은 해당 판본이 미국 퍼블릭 도메인으로 명시. 영어 원작이며 원작 내 다른 언어 구절 보존."
+    }
+  ],
+  "references": [
+    {
+      "id": "dongmyeong-ilgi",
+      "title": "동명일기",
+      "author": "의유당 남씨 (귀속 논의 있음)",
+      "language": "ko",
+      "metadataLanguage": "ko",
+      "status": "external-reference",
+      "sourceUrl": "https://ko.wikisource.org/w/index.php?oldid=383299",
+      "notice": "기행 산문. 확보한 현대 표기 전사본은 저본·현대화 기여자의 권리 경로가 확인되지 않아 앱 본문·TXT에 수록하지 않았습니다. 외부 원문 페이지를 안내합니다."
     }
   ]
 }

@@ -1,0 +1,20 @@
+{
+  "books": [
+    {
+      "id": "ko-hyeorui-nu",
+      "scanBodyCharacterEquality": true,
+      "normalizedCharacters": 42539,
+      "paragraphs": 566,
+      "jsonSha256": "97a7570e6e3a6a79703dd89a6bdac89f7fbe8ee2c9e7f5a69e1e63a952a72d3f"
+    },
+    {
+      "id": "ko-chiaksan-upper",
+      "scanBodyCharacterEquality": true,
+      "normalizedCharacters": 70877,
+      "paragraphs": 1381,
+      "jsonSha256": "143397a981f7c04f24cc84ae0e8d27c5598810ef486076de9f335d77ab8cb615"
+    }
+  ],
+  "frozenScanPages": 289,
+  "heldBooksExcludedFromBooksDirectory": true
+}

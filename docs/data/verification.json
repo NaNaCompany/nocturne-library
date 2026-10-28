@@ -1,12 +1,20 @@
 {
-  "schemaVersion": 1,
-  "books": 12,
-  "wordCount": 1149507,
-  "sectionCount": 450,
-  "mainChapterCount": 397,
-  "verifiedTextBlocks": 19476,
+  "schemaVersion": 2,
+  "verifiedOn": "2026-10-28",
+  "books": 22,
+  "originalEnglishBooks": 12,
+  "koreanBooks": 10,
+  "externalReferences": 1,
+  "wordCount": 1254363,
+  "englishWordCount": 1149507,
+  "koreanEojeolCount": 104856,
+  "countNote": "wordCount is a compatibility aggregate of English word tokens and approximate Korean whitespace units; they are reported separately above. Original print line breaks may split Korean words. Character counts are Unicode code points, not graphemes.",
+  "sectionCount": 481,
+  "mainChapterCount": 428,
+  "verifiedTextBlocks": 24424,
   "translatedBooks": 0,
   "sourceToExportBodyIntegrity": true,
-  "jsonBytes": 6678901,
-  "txtBytes": 6444152
+  "integrityBoundary": "Original 24 English book/TXT files retain pinned 2026-10-26 byte hashes. Korean chapter text equals the reviewed frozen transcription snapshots; this does not assert manual glyph collation of every historical printed page.",
+  "jsonBytes": 8027985,
+  "txtBytes": 7738259
 }

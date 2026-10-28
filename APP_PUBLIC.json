@@ -12,47 +12,47 @@
   "locales": {
     "ko": {
       "name": "NOCTURNE · 밤의 서재",
-      "description": "원어 소설 12권을 검은 배경·흰 글자로 읽고 글꼴·크기·목차·읽던 위치·책갈피를 활용하세요.",
+      "description": "개화기 신소설·고전소설·기행 가사 10편과 영어 원작 12권을 읽으세요. 검은 배경, 글꼴·목차·책갈피·TXT 다운로드와 판본별 출처를 제공합니다.",
       "image_alt": "NOCTURNE · 밤의 서재"
     },
     "en": {
       "name": "NOCTURNE · The night library",
-      "description": "Read 12 novels in their original language on a black background with white text, adjustable fonts, contents, reading position and bookmarks.",
+      "description": "Read 10 Korean works, including early modern and classical fiction and travel verse, alongside 12 English originals. Black-background reader with contents, bookmarks, TXT downloads and edition sources.",
       "image_alt": "NOCTURNE · The night library"
     },
     "es": {
       "name": "NOCTURNE · La biblioteca nocturna",
-      "description": "Lee 12 novelas en su idioma original con fondo negro, texto blanco, fuentes ajustables, índice, posición de lectura y marcadores.",
+      "description": "Lee 10 obras coreanas de ficción moderna temprana y clásica y poesía de viajes, junto a 12 originales ingleses. Fondo negro, índice, marcadores, TXT y fuentes de cada edición.",
       "image_alt": "NOCTURNE · La biblioteca nocturna"
     },
     "zh": {
       "name": "NOCTURNE · 夜间书房",
-      "description": "在黑底白字界面阅读 12 部原文小说，使用字体与字号调整、目录、阅读位置和书签。",
+      "description": "阅读10部韩国开化期小说、古典小说及纪行歌辞和12部英语原作。黑底阅读器提供目录、书签、TXT下载及各版本来源。",
       "image_alt": "NOCTURNE · 夜间书房"
     },
     "ja": {
       "name": "NOCTURNE · 夜の書斎",
-      "description": "原語の小説12冊を黒い背景と白い文字で読み、書体・文字サイズ・目次・読書位置・しおりを利用できます。",
+      "description": "開化期・古典小説や紀行歌辞など韓国語10作品と英語原作12冊を収録。黒背景の読書画面、目次、しおり、TXT保存、版ごとの出典を利用できます。",
       "image_alt": "NOCTURNE · 夜の書斎"
     },
     "de": {
       "name": "NOCTURNE · Die Nachtbibliothek",
-      "description": "Lesen Sie zwölf Romane im Original mit schwarzem Hintergrund, weißer Schrift, anpassbaren Schriften, Inhaltsverzeichnis, Leseposition und Lesezeichen.",
+      "description": "Lesen Sie 10 koreanische Werke mit früher moderner und klassischer Prosa sowie Reiseversen und 12 englische Originale. Schwarzer Lesebildschirm, Inhaltsverzeichnis, Lesezeichen, TXT und Editionsquellen.",
       "image_alt": "NOCTURNE · Die Nachtbibliothek"
     },
     "fr": {
       "name": "NOCTURNE · La bibliothèque nocturne",
-      "description": "Lisez 12 romans dans leur langue d'origine sur fond noir et texte blanc, avec polices réglables, sommaire, position de lecture et signets.",
+      "description": "Lisez 10 œuvres coréennes, dont des fictions anciennes et modernes et des vers de voyage, avec 12 originaux anglais. Fond noir, sommaire, signets, TXT et sources de chaque édition.",
       "image_alt": "NOCTURNE · La bibliothèque nocturne"
     },
     "pt": {
       "name": "NOCTURNE · A biblioteca noturna",
-      "description": "Leia 12 romances no idioma original com fundo preto e texto branco, fontes ajustáveis, sumário, posição de leitura e marcadores.",
+      "description": "Leia 10 obras coreanas, incluindo ficção clássica e moderna inicial e versos de viagem, com 12 originais em inglês. Fundo preto, sumário, marcadores, TXT e fontes de cada edição.",
       "image_alt": "NOCTURNE · A biblioteca noturna"
     },
     "ru": {
       "name": "NOCTURNE · Ночная библиотека",
-      "description": "Читайте 12 романов на языке оригинала с белым текстом на чёрном фоне, настройками шрифта, оглавлением, сохранением позиции и закладками.",
+      "description": "Читайте 10 корейских произведений: раннюю современную и классическую прозу, путевые стихи, а также 12 английских оригиналов. Чёрный фон, оглавление, закладки, TXT и источники изданий.",
       "image_alt": "NOCTURNE · Ночная библиотека"
     }
   }
